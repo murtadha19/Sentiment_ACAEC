@@ -1,0 +1,403 @@
+doc1-neg-(1406).txt	so	never	aback	human	then	first	there	then	finally	then	located	back	weary	really	bad	worse	slightly	hysterical	full	now	hungry	almost	worthwhile	well	ridiculous	sufficiently	not	wobbly	very	late	pre	able	there	last	not	very	polite	good	safe	there	indeed	literally	am	happy	relatively	uneventful	dear	old	full	much	damn
+doc2-neg-(1407).txt	not	up	so	annoyed	always	just	larger	so	normal	always	many	not	even
+doc3-neg-(1408).txt	28th	definitely	worst	careful	terrible
+doc4-neg-(1409).txt	various	better	other	due	poor
+doc5-neg-(1410).txt	always	more	also	so	cheap	so	normal	really	better	servic
+doc6-neg-(1411).txt	just	easy	other	cheap	up	more
+doc7-neg-(1412).txt	low	not	possible
+doc8-neg-(1413).txt	much	smaller	not	very	considerate	too	big	large	extra	still
+doc9-neg-(1414).txt	latest	worst	normally	so	together	also	always	large	more	middle
+doc10-neg-(1415).txt	even	smallest	still	apparently
+doc11-neg-(1416).txt	very	expensive	inefficient	limited	small	back	very	limited	free	last	small	not	so	not	only	poor	middle
+doc12-neg-(1417).txt	never	so	few	perfect	perfect	terrible
+doc13-neg-(1418).txt	terrible	quite	far	away	now	so	far	so	good	more	absolutely	there	prior	already	well	least	nearest	even	false	obviously	now	great	more	twice	again	so
+doc14-neg-(1419).txt	sadly	terrible	not	worst	initially	then	many	distressed	only	there	direct	back	20th	16th	ready	not	very	nice	only	wrong	6am	30pm	previous	back	now
+doc15-neg-(1420).txt	huge	usual	several	never	scottish	ridiculous
+doc16-neg-(1421).txt	first	good	good	convinced	sure	clear	low	however	not	bad	never	experienced	not	enough	far	totally	non	ergonomic	entire	even	cheap	am	not	convinced
+doc17-neg-(1422).txt	not	really	helpful	professional
+doc18-neg-(1423).txt	okay	then	then	small	last	never	too	big	well	even	apparently	normal	more	good	definitely	less	negative
+doc19-neg-(1424).txt	only	so	there	only	however	anywhere	pertinent	extensive	small	up	correct	smaller	then	other	low	smallest	tiny	only	normal	less	highest	overall
+doc20-neg-(1425).txt	even	literally	away	terminal	once	there	open	small	once	very	slow	once	first	counter	tiny	so	approx	small	countless	major	well	low	such	easy	first	away
+doc21-neg-(1426).txt	long	hungarian	grand	few	large	so	instead	now	already	then	unable	extra	again	unsurprising	large	so	last	different	many	now	extra	full	just
+doc22-neg-(1427).txt	am	frequent	so	quite	picky	however	just	too	big	unscrupulous	commercial	random	other	so
+doc23-neg-(1428).txt	never	ever	again	well	away	rude	impossible	more	unhelpful	down	right	rude	not	interested	3rd	just	not	even	again	back	nowhere	directly	well	away
+doc24-neg-(1429).txt	not	pretty	rude	good	hungary	hungarian	english	really	good
+doc25-neg-(1430).txt	messy	best	more	friendly	unpleasant	mainly	due	there	uninterested	only	other	little	english	left	cheap	well	cheap	not	pleasant	many	then	direct
+doc26-neg-(1431).txt	excellent	wrong	repeatedly	right	just	left	there	long	straight	reasonable	hungary	only	not	not	safe	so	just
+doc27-neg-(1432).txt	very	different	other
+doc28-neg-(1433).txt	only	different	not	high	ever	up	full	only	available	so	not	only	same	many	many	same	normal	shady	disreputable	apparently	not	so	blatantly
+doc29-neg-(1434).txt	last	affordable	expensive	such	poor	snobbish	especially	twice	up	up	available	comfortable	indeed	low	never	safe	much	possible
+doc30-neg-(1435).txt	cheap	dirty	old	poor	english	unprofessional	nice	there	highly	not	excellent	perfect
+doc31-neg-(1436).txt	aproximately	unfortunately	also	back	late	unacceptable
+doc32-neg-(1437).txt	twice	restricted	high	long
+doc33-neg-(1438).txt	ridiculous	merely	free	ahead	miserable	narrow	comfortable	single	somewhat	inadequate	absent	even
+doc34-neg-(1439).txt	late	then	incompletely	not	normal	nevertheless
+doc35-neg-(1440).txt	old	there	limited	extra	first	not	there	so	second	second	third	empty	lucky	there	bigger	just	there	anyway	there	obviously	old	so	really	obviously	best	really	helpful	not	totally	extra	worth	so	now	much	better	safer	there	well
+doc36-neg-(1441).txt	not	very	pleasant	there	clear	bad	really	honestly	only	tight	somewhere	good	else
+doc37-neg-(1442).txt	woeful	best	so	far	rude	aggressive	never	again
+doc38-neg-(1443).txt	last	low	unfortunately	not	late	due	unknown	additional	up
+doc39-neg-(1444).txt	relatively	short	there	open	then	later	perhaps	best	then	hotter	medical	there	mysterious	long	short	simply	few	further	forward	eventually	uneventful	very	pleasant	helpful
+doc40-neg-(1445).txt	additional	unfriendly	high	altogether	finaly	normal	not	sufficient
+doc41-neg-(1446).txt	not	not	able	therefor	black	white
+doc42-neg-(1447).txt	cheap	else	just	electronic	thus	not	more	ever
+doc43-neg-(1448).txt	currently	due	several	same	just
+doc44-neg-(1449).txt	first	last	bad	bad	bad	bad	not	so	extra	then	other
+doc45-neg-(1450).txt	ridiculous	uncomfortable	packed	rude	relatively	expensive	worst
+doc46-neg-(1451).txt	worst	early	so	open	there	too	late	absolutely	pathetic	not	other	free	even	not	open	actually	innocent	human	last	cheap	not	worth	well
+doc47-neg-(1452).txt	3rd	very	low	english	very	other	impossible	first	very	so	terrible	there	low	never	again
+doc48-neg-(1453).txt	2am	late	unfortunately	main	still	back	enough	then	due	not	there	6am	up	just	several	only	other	back	later	back	never	own	am	not	back	also	noreply	so	very	much	own	dear	unfortunately	only	best	dear	apart	automatic	third	other	other	third	such	so	only	third	such	several	only	liable	general	such	servic
+doc49-neg-(1454).txt	not	wrong	horrendous
+doc50-neg-(1455).txt	already	different	certainly	worst	big	never	again
+doc51-neg-(1456).txt	already	so	only	yet	extra	cheapest	fair	there	anyway	more	equally	rotten	only	tiny	free	moderately	else	several	not	really	now	especially	actually	sorry	not	only	not	other	same	back	back	very	careful	not	free	so	free	there	small	enough	free	other	free	down
+doc52-neg-(1457).txt	disturbing	well	so	up	just	just	even	located	new	great	not
+doc53-neg-(1458).txt	other	up	even	short	nice	free	rather	absolutely	nice	same	back	more
+doc54-neg-(1459).txt	first	most	other	too	big	easy	large	small	large	so	small
+doc55-neg-(1460).txt	generally	helpful	foul	barely	3cm	old	back	soon	packed	extra	limited	expensive
+doc57-neg-(1462).txt	back	plain	back	there	more	close	am	here	then	ridiculous	able	back	lucky	exact	same	same	there	anyway	last	then	well	typical	hungarian	much	possible	old	old	old	back	well	so	there	there	just	pure	bare	there	other	bigger	late	easy
+doc58-neg-(1463).txt	last	worst	ever	here	now	even	same	usual	usual	due	right	same	even	pregnant	so	other	worth	poor	very	expensive	barely	impossible	meanwhile	new	never	again	away
+doc59-neg-(1464).txt	horrible	horrible	present	aggressive	miniscule	left	not	unchallenged	large
+doc60-neg-(1465).txt	acoustic	down	large	extra	good	free	big	friendly
+doc61-neg-(1466).txt	bad	high	bad
+doc62-neg-(1467).txt	there	further	technical	inbound	several	just	earlier	only	just	further	later	eventually	forward	there	cramped	further	normal	best	however	absolutely	dreadful	timely	not	not	nice
+doc63-neg-(1468).txt	shoddy	absolutely	not	worth	minuscule	more	outgoing	low	significant	however	there	distinct	positively	dire	back	left	plenty	ahead	unfortunately	there	temporarily	due	extreme	severe	due	constantly	there	possible	able	initial	not	helpful	just	due	directly	aware	significant	unable	hefty	reluctantly	almost	very	little	english	english	extremely	rude	unhelpful	not	liable	unable	due	bad	not	not	regardless	further	available	not	able	partial	extremely	unfair	then	further	then	hung	up	annoyed	immensely	so	not	only	back	also	useless	rude	good	unable	not	up	pathetic	just	big	away	worse	not
+doc64-neg-(1469).txt	lousy	so	sad	terribly	up	extra	much	more	low	away
+doc65-neg-(1470).txt	just	many	huge	extra	longer	free	completely	unrealistic	even	bigger	only	more	very	unpleasant	rubbish	small	not	very	comfortable	there	even	bad	there	poor	so	much	extra	bad	not	worthy
+doc66-neg-(1471).txt	extra	original	confident	well	final	not	good	more	careful	large	well	different	not	up	useless	responsible	only	away	not	right	now	only	once	again
+doc67-neg-(1472).txt	up	extra	hard	not	enough	extra	not	nice
+doc68-neg-(1473).txt	not	possibly	even	poor	general	private
+doc69-neg-(1474).txt	5cm	too	tall	well	other	ever	perhaps	able	not	last	personally	particularly	most	other	able	20kg	worth	long	more	not	again	opportunistic	malicious	not	such	small	easily	there
+doc70-neg-(1475).txt	5cm	normal	worst	most	disrespectful	ever	never	ever	again	never
+doc71-neg-(1476).txt	possible	so	little	back	later	tall	well	little	back	up	up	down	obviously	back	again	down	just	up	little	little	little	longer	little	down	sternly	so	well	back	obviously	clean	up	other	kindly	up	more	now	not	away	never	ever	again	not	also	very	very	expensive	old	extra
+doc72-neg-(1477).txt	extra	however	not	then	hot	terminal	non	non	still	able	again	terminal	there	not
+doc73-neg-(1478).txt	overnight	left	unattended	very	least	close	helpful	shocking
+doc74-neg-(1479).txt	left	extremely	expensive	afterwards	worst	ever	never	again	better	little	extra	decent
+doc75-neg-(1480).txt	pointedly	specific	baltic	precisely	else	baltic	however	much	vile	immature	little	collectively	already	mobile	unheard	previous	allegedly	invalid	mobile	whatsoever	yet	young	other	fictitious	extra	nevertheless	horrifying	almost	horrifying	extra	undue	fictitious	not	baltic	officially	slow	incontrovertible	up	hefty	simple	basically	subjectively	not	far	satisfactorily
+doc76-neg-(1481).txt	cheap	not	extremely	cheap	absolutly	even	normal	together	furthermore	not	correct	perfectly	understandable	just	more	only	so	again	not
+doc77-neg-(1482).txt	fair	few	more	more	unpredictable	same	always	extra	maybe	worse	same	same	straight	later	different	nice	many	so	just	generally	good
+doc78-neg-(1483).txt	first	not	then	horrible	cold	basically	down	not	really	much	frequent	very	uncomfortable	too	much	bad
+doc79-neg-(1484).txt	mainly	cheaper	other	civilised	enough	pre	small	ridiculous	just	back	still	free	honestly	not	not	friendly	already	small	not	small	enough	own	am	sorry	irrational
+doc80-neg-(1485).txt	back	only	not	pleasant	not	first	low	here	exaggerated	even	up	low	not	main	theoretically	possible	even	most	extra	actually	original	back	just	then	more	not	even	not	up	never	again
+doc81-neg-(1486).txt	few	relatively	easy	early	larger	puzzling	other	normal	tight	taller	general	always	corporate	still	up	manually	many	other
+doc82-neg-(1487).txt	so	dirty	am	small	free	so	always	mic	small	terrible
+doc83-neg-(1488).txt	here	again	con	same	too	tall	wide	deep
+doc84-neg-(1489).txt	first	maybe	last	very	helpful	nice	very	good	very	dirty	uncomfortable	tight	really	not	good
+doc85-neg-(1490).txt	so	bad	hard	even	low	much	really	first	late	second	down	now	third	simply	later	very	very
+doc86-neg-(1491).txt	full	more	other
+doc87-neg-(1492).txt	almost	bad	always	rude	unpleasant	only	otherwise	there	only	really	scary	always	not	very	strict	extra	not	easy	free	good	few	real	not	overweight	lucky	mid	otherwise	so	extra	so	uncomfortable	mixed	sometimes	less	50eur	regular	commercial	only	double	once	again	even	not	maybe	not	however	sure	other	only	low	only	still	so
+doc88-neg-(1493).txt	quite	few	early	not	so	many	right	however	also	other	more	not	typical	few	not	actually	good	competent	personally	bumpy	additional	personal
+doc89-neg-(1494).txt	uncomfortable	small	expensive	not	much	just	good	always	late	unlimitted
+doc90-neg-(1495).txt	worst	low	worst	ever	worst	smallest	really	worst	only	possible	acceptable	low	same	now	not	anymore	only	small	small	too	big	better	not
+doc91-neg-(1496).txt	many	worse	higher	smaller	new	even	less	shorter	then	older	only	good	so	least
+doc92-neg-(1497).txt	only	direct	not	exactly	low	large	large	new	good	good	right	here	good	impossible	first	not	small	full	personal	small	personal	last	anyway	so	just	left	unattended	not	not	else	entire	second	so	long	short	blonde	entire	convinced	other	such	uneducated	disrespectful	mock	more	rather
+doc93-neg-(1498).txt	small	different	wrong	internationally	internationally	suddenly	even	long
+doc94-neg-(1499).txt	second	very	few	larger	so	extra	friendly	big	too
+doc95-neg-(1500).txt	many	never	very	basic	wrong	appalling	back	busy	real	then	new	later	there	then	even	more	expensive	not	only	new	right	late	never	able	even	suddenly	not	english	only
+doc96-neg-(1501).txt	not	sure	so	certainly	more	amazingly	awful	awful	late	inbound	abysmal	quite	rudely	not	available	then	else	less	such	smaller	even	there	not	very	little	not	much	ridiculous	worse	not	even	cheap
+doc97-neg-(1502).txt	okay	several	previous	so	then	then	previous	super	bad	up	full	totally	crappy	seriously	cheap	up	quite	valuable	never	anymore
+doc98-neg-(1503).txt	too	busy	not	enough	stroppy	better	extra	more
+doc99-neg-(1504).txt	there	direct	even	almost	not	first	most	uncomfortable	not	complimentary
+doc100-neg-(1505).txt	up	there	worst	ever	aware	extra	single	ever	common	extra	once	then	so	admittedly	high	most	definitely	extra	much	other	higher	only	large	far	small	stingy
+doc101-neg-(1506).txt	unfriendly	first	even	plenty	also	not	not	polite	efficient	perfectly	funnily	enough	also	many	other	different	later	there	up	never	ever	again	now
+doc102-neg-(1507).txt	second	long	due	short	not	very	cheap	just	cheaper	other	only	few	however	long	expensive	constant	real	finally	random	40eur	not	fitting	sorry	few	old	extra	terrible	not	subjective	normal	never	again
+doc103-neg-(1508).txt	not	low	back	whole	possible	larger	indeed	good	not
+doc104-neg-(1509).txt	only	larger	larger	so	very	rudely	clearly	not	clearly	then	only	rudely	again	literally
+doc105-neg-(1510).txt	smallest	ever	very	big	small	small	not	other	big	double	most	am	fairly	illegal
+doc106-neg-(1511).txt	last	cheap	convenient	never	again	outrageous	only	smallest	late	so	left	late	awful	very	unorganized	now	so	cheap
+doc107-neg-(1512).txt	first	hence	first	first	not	farthest	away	up	then	sour	well	even	long	uneventful	only
+doc108-neg-(1513).txt	more	less	actually	much	better	small	not	very	comfortable	even	short	noticeable	polite	friendly	so	there	long	typical	also	not	cheap	unfair	strange	especially	shorter	completely	further	open	better	very	disappointing
+doc109-neg-(1514).txt	even	longer	usual	pre	late	up	obvously	dangerious	forcefully	restless	abusive	concerned	there	distressed	not	good	late
+doc110-neg-(1515).txt	hottest	long	available	last	left	hot	general	best	tetchy	questionable	not	instead	even	greater	approximately	only	cramped	better	hot	ridiculously	definitely	not
+doc111-neg-(1516).txt	unfortunately	only	so	not	much	usually	fair	enough	wrong	hardly	young	just	once	even	complimentary	just	once	desperate	hardly	eatable	worst	accidentally	wrong	not	helpful	fairly	cheap	only	high
+doc112-neg-(1517).txt	stressed	just	slightly	better	almost	only	only	final	most	important	new	there
+doc113-neg-(1518).txt	due	30pm	not	30pm	really	rude	worse	there	obviously	there	then	approximately	extra	not	not	not	worst	ever
+doc114-neg-(1519).txt	latest	twice	so	second	good	good	extra	extra	first	also	right	right	so	very	not	anymore	unprofessional	very	rude	only	not	applicable	other
+doc115-neg-(1520).txt	sick	cheap	then	extra	most	there	not	friendly	never	now	blue	instead
+doc116-neg-(1521).txt	very	cheap	only	good	dirty	everywhere	really	bad	once	available	obscene	most	basic
+doc117-neg-(1522).txt	disabled	very	unhelpful	impossible	only	large	essential
+doc118-neg-(1523).txt	cheap	fair	back	forth	similar	further	smaller	most	ordinary	almost	much	almost	much	back	thick	extra	cheap	first	extra	convinced	never	again
+doc119-neg-(1524).txt	not	only	interested	extra	up	free	sustainable	dark	low
+doc120-neg-(1525).txt	very	dissatisfied	always	always	same	old	yet	very	up	apparently	too	big	major	minor	such	clear	again	turkish	british
+doc121-neg-(1526).txt	normally	up
+doc122-neg-(1527).txt	late	awful	even	sparkling	later	again	late	only
+doc123-neg-(1528).txt	more	obviously	old	unreliable	not	very	unsatisfactory
+doc124-neg-(1529).txt	last	few	worst	worst	there	long	never	up	same	almost	same	again	free	rather	more	more	proffessional
+doc125-neg-(1530).txt	22nd	due	swiftly	earlier	usual	terminal	good	anyway	least	finally	just	good	still	finally	due	back	now	technical	ready	not	now	hardly	vile	rudest	most	unprofessional	ever	complimentary	instead	same	once	too	bad	never	ever	again
+doc126-neg-(1531).txt	never	just	cheap	however	recent	worse	worse	last	almost	unbearable	first	almost	even	there	separate	rather	cramped	only	then	legendary	constant	even	huge	right	free	small	right	bigger	obligatory	significantly	higher	separate	cheaper	then	instead	just	separate	not	together	additional	other	also	overall	not	not
+doc127-neg-(1532).txt	great	now	however	old	absolutely	not	human	again	not	other	not	even
+doc128-neg-(1533).txt	even	worst	possible	small	busy	strange	other
+doc129-pos-(1641).txt	low	greatest	back	low	available	almost	low	mostly	new	newish	lower	else	usual	classic	uncomfortable	most	so	always	close	bigger	even	close	furthermore	also	extra	more	usual	finally	longer	last	not	true
+doc130-pos-(3175).txt	most	popular	cheap	not	very	very	good	good	particular	low
+doc131-pos-(3176).txt	short	right	cheap	moreover	perfect	second
+doc132-pos-(3177).txt	first	great	punctual	due	twice	inmediately	good	just	everyday	only
+doc133-pos-(3178).txt	very	cheap	so	high	just	late	else
+doc134-pos-(3179).txt	very	straightforward	comfortable	only	very	good	extra	good	certainly
+doc135-pos-(3180).txt	short	wonderful	full
+doc136-pos-(3181).txt	always	clean	really	low	able	different
+doc137-pos-(3182).txt	good	perfect	very	good	nice	certainly	again
+doc138-pos-(3183).txt	already	many	nice	there	rare	not	always	friendly	well	only	often	really	cheap	bigger	up	full	sometimes	worth	good	regular
+doc139-pos-(3184).txt	very	pleasant	easy	delightful	genuinely	very	helpful	friendly	larger	free
+doc140-pos-(3185).txt	strict	very	good	up	various	really	amazing	brilliant	large	not	well	really	upset	quite	there
+doc141-pos-(3186).txt	always	nice	helpful	clean	safe	most
+doc142-pos-(3187).txt	nice	good	helpful	there	enough	comfortable	other	good	there	various	available
+doc143-pos-(3188).txt	other	optimal	super	small	however	good	nice	big	normal	really	good
+doc144-pos-(3189).txt	aware	there	substantial	up	so	far	terminal	there	earlier	not	earlier	up
+doc145-pos-(3190).txt	pleasant	quiet	very	professional	good	professional
+doc146-pos-(3191).txt	once	twice	never	other	usually	back	there	here	there	few	too	large	polite	instead
+doc147-pos-(3192).txt	long	almost	good	highest
+doc148-pos-(3193).txt	comfortable	friendly	helpful	there	least	extra	there	longer	due	horrendous	there	everywhere	real	great	really	lovely	very	friendly	helpful	hospitable
+doc149-pos-(3194).txt	good	very	friendly	slightly	heavier	great	cheaper	good
+doc150-pos-(3195).txt	several	most	almost	always	dirty	otherwise	not	other	extra	not	discerning	additional	sometimes
+doc151-pos-(3196).txt	very	very	good	new	modern	confortable	more	real	up	good
+doc152-pos-(3197).txt	nice	short	very	comfortable	unfortunately	very	new
+doc153-pos-(3198).txt	many	long	perfect	good
+doc154-pos-(3199).txt	once	quickly	professionally	great	wonderful	other
+doc155-pos-(3200).txt	cheap	new	now	free	large	so
+doc156-pos-(3201).txt	many	bad	really	not	comfy	pleasant	now	pleasant
+doc157-pos-(3202).txt	good	very	nice	acceptable
+doc158-pos-(3203).txt	perfect	comfortable	cheap	good	more	economical	additional	highly
+doc159-pos-(3204).txt	best	direct
+doc160-pos-(3205).txt	rather	apprehensive	never	however	pleasantly	surprised	almost	new	very	clean	professional	courteous	almost	earlier
+doc161-pos-(3206).txt	smoothly	excellent	certainly	again
+doc162-pos-(3207).txt	low	not	nice	not	small	other	correct	same	not	efficiently	there	other
+doc163-pos-(3208).txt	very	nice	nice	clean	very	well	very	well	upset
+doc164-pos-(3209).txt	tiny	actually	very	well	up	so	ever	really	low	friendly	efficient
+doc166-pos-(3211).txt	nice	good	also
+doc167-pos-(3212).txt	first	very	efficient	pleasant	helpful	well	speedy
+doc168-pos-(3213).txt	not	really	apart	long	very	uncomfortable	very	long	very	cold	down	properly	basic	away	even	so	restful	many	far	concerned	higher	most	same
+doc169-pos-(3214).txt	low	sometimes	additional	good
+doc170-pos-(3215).txt	helpful	reasonable	extra	more	still	late
+doc171-pos-(3216).txt	mostly	main	older	long	usually
+doc172-pos-(3217).txt	many	different	special	many	very	cheap	italy	once	forever	extra	more	exotic	longest	so	far	yet	special	so	bigger	free	small	now	free	earlier	so	am	also	select	big	even	short	clean	not	much	comfortable	more	so	there	so	very	hard	even	very	expensive	too	much	expensive	other	only	once	globally	many	many	even	similar	turkish	not	practical	richer	new	once	canary	ahead	open	many	already	new	so	soon
+doc173-pos-(3218).txt	great	apart	heavy	fair	very	polite	usual
+doc174-pos-(3219).txt	unfortunately	only	quite	expensive	normal	so	possible	prior	good	much	faster	terminal	terminal	yellow	free	terminal	up	then	terminal	not	more	not	together	even	especially	late	early	only	less	other	early	late	not	otherwise	quite	often
+doc175-pos-(3220).txt	very	cheap	very	limited	especially	terminal	not	possible	weighted	non	really	expensive	very	carefully
+doc176-pos-(3221).txt	first	few	not	impressed	so	afraid	same	rude	arrogant	back	only	dumb	whole	surprised	not	just	good	understandable	english	obviously	necessary	tidy	am	surely	again
+doc177-pos-(3222).txt	overall	christian	due	short	other	same
+doc178-pos-(3223).txt	sure	pleasantly	surprised	good	effortless	quick	due	very	reasonable	not	much	possible
+doc179-pos-(3224).txt	always	free	good	always
+doc180-pos-(3225).txt	better	more	more
+doc181-pos-(3226).txt	very	impressive	pretty	little	short	wonderful
+doc182-pos-(3227).txt	very	good	low	good	special	almost	also	so	even	more	weak	not	smaller	plain
+doc183-pos-(3228).txt	most	reliable	however	not	small	nice	not	crazy	usually	attentive	ready	however	nice	more	often	interesting	more	comfortable	usually	not	long	so	reasonable
+doc184-pos-(3229).txt	very	reliable	very	comfortable	clean	very	good	excellent	easy	good
+doc185-pos-(3230).txt	well	personal	also	well
+doc186-pos-(3231).txt	very	confortable	small	am
+doc187-pos-(3232).txt	countless	various	cheap	yes	not	too	comfortable	always	really	friendly	not	most	only	sometimes	always	less	professional
+doc188-pos-(3233).txt	first	already	also	specific	abroad	cheap	so	just	best	personal	worth	otherwise	extra
+doc189-pos-(3234).txt	really	cheap	worth	additional	first	best	really	comfortable	only	little	late	approx
+doc190-pos-(3235).txt	great	very	friendly	earlier	then
+doc191-pos-(3236).txt	only	remotely	located	extra	norwegian	major	always	particular
+doc192-pos-(3237).txt	just	not	late	lovely	clean
+doc193-pos-(3238).txt	good	not	extra	compactly	usually	also
+doc194-pos-(3239).txt	so	many	utterly	strict	frequently	clearly	yet	overstuffed	too	large	several	extra	extra	clean	attentive	helpful	perfectly	pleasant	not	good	again	well	still
+doc195-pos-(3240).txt	not	much	new	okay	great	musical	somehow	extra	really	courteous
+doc196-pos-(3241).txt	good	reasonable	last	so	substantially	additional	convenient	well	always	good	excellent	friendly
+doc197-pos-(3242).txt	quite	decent	adequate	very	punctual	even	pretty	early	there	unfortunately	thus	english	not	well	heavily
+doc198-pos-(3243).txt	now	many	highly	clear	low	always	extra	additional	good	not	then
+doc199-pos-(3244).txt	clean	comfy	cheap	really	little
+doc200-pos-(3245).txt	very	good	much	disabled	left	quite	long	unexpectable	down	so	so	last	so	soon	older	disabled	electric	directly	free	cold	later	thus
+doc201-pos-(3246).txt	not	great	not	large	eventually	nice	pleasant	maybe	most	quite	comfy	reasonable	honest	probably	more	then	quite	recent	non	not	bad	not
+doc202-pos-(3247).txt	multiple	last	definitely	nicest	most	reliable	always	perfect	due	bad	professionally	friendly	speedy	very	competitive	eastern	northern	western
+doc203-pos-(3248).txt	just	clean	helful	up	good	low	again
+doc204-pos-(3249).txt	cheap	much	easy	easy	plenty	quick	efficient	friendly	only	short	very	uncomfortable
+doc205-pos-(3250).txt	comfortable	wide	small	not	really	also	there	adequate	quite	tight	perhaps	worth	little	extra	extra	not	more	informative	amazing	various	good	mid	pre	several	pre	free	very	slightly	several	pre	only
+doc206-pos-(3251).txt	nice	very	cheap	yes	well	low
+doc207-pos-(3252).txt	several	great	cheap	so	very	efficient	friendly
+doc208-pos-(3253).txt	several	often	late	generally	good	often	friendly	very	good	english	happy	overall	often	good	several	however	nasty	additional	other	such	costly	good	decent	very	comfortable	old	correctly	there
+doc209-pos-(3254).txt	back	select	extra	also	far	big	now	earlier	so	far	fully	satisfied
+doc210-pos-(3255).txt	incredibly	cheap	certainly	comfortable	good	unbelievable	frequent	also	then	able	not	so
+doc211-pos-(3256).txt	only	other	realy	professional	definite	realy
+doc212-pos-(3257).txt	regularly	free	always	minimal	up	aware	terminal	only	smart	right
+doc213-pos-(3258).txt	nice	nice	very	cheap	very	again	sure
+doc214-pos-(3259).txt	several	italy	direct	extra	low	really	good
+doc215-pos-(3260).txt	complete	additional	decent	very	well	free	comfortable	friendly	else	other
+doc216-pos-(3261).txt	quite	often	few	most	always	am	always
+doc217-pos-(3262).txt	only	technical	then	additional	apart	polite	always	clean	there	enough	safe	sure	extra	pretty	much	other	sure	so	really	tight	few	30eur	10eur	well	already	safe
+doc218-pos-(3263).txt	new	good	cheap	more	careful	very	restrictive	overall
+doc219-pos-(3264).txt	nice	clean	punctual	polite	good	not	extra
+doc220-pos-(3265).txt	great	short	low	more	large	additional	such	basically	aloud	only	small	additional	else	very	small	so	tall	extra	there	extra	low	wide	also	fairly	new	better	more	nice	general	clean
+doc221-pos-(3266).txt	such	even	only	comparatively	cheaper	other	then	special	such	first	instead	so	however	then	am	not	sure
+doc222-pos-(3267).txt	regular	cheap	extra	excellent	more	often
+doc223-pos-(3268).txt	very	few	direct	so	already	personally	much	far	superior	many	clean	modern	purple	quite	comfortable	actually	very	pleasant	better
+doc224-pos-(3269).txt	only	direct	so	once	usual	easy	enough	once	carefully	immediate	important	pre	so	there	unexpected	outgoing	good	same	perfectly	only	ghastly	chaotic	early	back	operational	already	huge	disorganised	forward	fast	certain	general	old	audible	back	hard	there	different	very	short	outgoing	down	not	incidentally	small	very	modern	clean	efficient	comfortable	great	still	certainly	again	possible
+doc225-pos-(3270).txt	low	exactly	very	good	big	nice	clean	nice	good	especially
+doc226-pos-(3271).txt	nice	clean	modern	more	less	chaotic	more	spacious	modern	less	back	general	calming	good	short
+doc227-pos-(3272).txt	great	great	only	english	not	completely	understandable	there	safely	certainly
+doc228-pos-(3273).txt	clean	helpful	not	always	comfortable	best	not	very	expensive	disabled	accessible	strict
+doc229-pos-(3274).txt	very	special	unfortunately	very	scarce	good
+doc230-pos-(3275).txt	reasonably	strict	just	very	simple	clearly	extra	there	always	last	oversized	large	free	quite	funny	not	quite	same	other	low
+doc231-pos-(3276).txt	only	far	so	little	hard	long	other	wise	very	happy
+doc232-pos-(3277).txt	pretty	much	plain	so	far	friendly	helpful	hard	relatively	short	well	fairly	even	whenpresented	convinced	cheaper	more	often	populated	much	so	somewhat	high	enormous	more	frequent	down	more	last	amazingly	huge	down	poor	hopefully	there
+doc233-pos-(3278).txt	overall	comfortable	clean	nice	more	quick
+doc234-pos-(3279).txt	best	available	overall	good	then	free	right	there	free	teminal	then	usually	cheap	ahead	not	then	back	then	6am	hard	then	5am	open
+doc235-pos-(3280).txt	first	terminal	just	straight	really	helpful	left	magically	shortly	down	only	old	not	much	bigger	own	2yr	old	too	cramped	especially	quickly	little	back	extra	easiest	2yr	not	comfortable
+doc236-pos-(3281).txt	nice	always	cheap	best	short
+doc237-pos-(3282).txt	there	nicer	minimal	basically	not	most	low	yes	there	strict	very	competitive	never	big	also	just	not	bigger	definitely	probably	best	low
+doc238-pos-(3283).txt	other	low	easy	also	friendly	whole	definitely	many
+doc239-pos-(3284).txt	pleasantly	surprised	good	mannered	efficiently	frequent	so	much
+doc240-pos-(3285).txt	fantastic	great	relatively	new	hungarian	due	massive	terminal
+doc241-pos-(3286).txt	extra	always	excellent	really	good
+doc242-pos-(3287).txt	nice	there	nice	too	hungarian	italian	there	other
+doc243-pos-(3288).txt	just	special
+doc244-pos-(3289).txt	6pm	mobile	further	long	up	then	further	very	windy	good	clean	there	good	excellent
+doc245-pos-(3290).txt	nice	punctual	nice	clean	really	good	few	able	more
+doc246-pos-(3291).txt	last	very	easily	pretty	cheap	comfortable	enough
+doc247-pos-(3292).txt	there	nicely	pleasant	good	even	more	low	more	decent	only	low	horrible	super	cold	windy	straight	deep	finally	well	right	good
+doc248-pos-(3293).txt	nice	nice	very	safe	low	short
+doc249-pos-(3294).txt	best	recently	minor	only	bad	final	friendly	helpful	great	earlier
+doc250-pos-(3295).txt	maybe	best	low	ever	often	always	perfect	not	perfect	excellent	very	good
+doc251-pos-(3296).txt	quite	almost
+doc252-pos-(3297).txt	yes	very	much	very	new	very	nice	also	enough
+doc253-pos-(3298).txt	good	affordable	clean	modern	hungarian	bilingual	little	tricky	available	reasonably	again
+doc254-pos-(3299).txt	approx	easy	left	approx	very	hot	available	sorry	small	also	elderly	not	suitable	otherwise	good	nice
+doc255-pos-(3300).txt	fairly	good	really	cheap	overly	comfy	2hr	pleasant	regular
+doc256-pos-(3301).txt	least	once	very	much	not	only	also	never	whatsoever	just	reasonable	sometimes	even	good	cheaper	twice	never	well	maybe	perfect	never
+doc257-pos-(3302).txt	low	nice
+doc258-pos-(3303).txt	fast	fast	dark	old	not	so	now	yearly	large	well	worth	frequent	excellent	better	normal	great
+doc259-pos-(3304).txt	low	certainly	last	pleasant	polite	helpful	several	not	heavier	there	up	extra	good	also	several	possible	extra	only	related	also	not	clear	counter
+doc260-pos-(3305).txt	not	best	low	very	affordable	small	very	good	free	significant	lower	free	fairly	decent	most	important
+doc261-pos-(3306).txt	cheap	almost	punctual	good	nice	extra	comfortable	there	quite	new	good	only
+doc262-pos-(3307).txt	well	low	cheap	good	new	really	nice	frequent	never	accurate	terrible	soon
+doc263-pos-(3308).txt	often	great	low	eastern	western	much	mostly	north	south	otherwise	very	similar	very	low	free	basically	only	tiny	more	inconvenient	also	heavy	just	few	last	otherwise	not	too	bad	once	due	down	nice	not	other	too	early	so	instead	same
+doc264-pos-(3309).txt	best	low	new	clean	comfortable	very	freindly	good	extra
+doc265-pos-(3310).txt	very	good	really	well
+doc266-pos-(3311).txt	quite	disappointed	first	very	convenient	close	again	impressed	ready	prior	polite	very	pleasant	back
+doc267-pos-(3312).txt	often	various	always	good	convenient	sometimes	there	convenient
+doc268-pos-(3313).txt	good	short	hungary	friendly	simple	speedy	even	clean	only	slight	other	short	real
+doc269-pos-(3314).txt	new	good	everywhere	only	really	major	busy	really	very	wonderful	clean
+doc270-pos-(3315).txt	sometimes	worth	clean	efficient	other	clean	comfy
+doc271-pos-(3316).txt	am	automatically	generally	possible	due	still	still	other	first	only	few	not	only	available	cheaper	so	there	usually	own	there	different	other	friendly	alert	respectful
+doc272-pos-(3317).txt	low	same	usually	convenient	good
+doc273-pos-(3318).txt	quick	really	free	very	convenient	not	so	30am	unearthly	quite	most	horrendous	present	best	cheerful	so
+doc274-pos-(3319).txt	easy	just	good	almost	always	too	strict	so	sure	good	professional
+doc275-pos-(3320).txt	generally	better	usually	good	not	rarely	last	sorry	so	perhaps	limited	most	up	soon	likely	more	then	not	increasingly	unattractive	not	quite	enough	complete
+doc276-pos-(3321).txt	almost	only	last	great	especially	additional	such
+doc277-pos-(3322).txt	low	eastern	central	rather	unique	late	so	considerably	higher	usual	so
+doc278-pos-(3323).txt	long	almost	invariably	punctual	highly	professional	new	spotless	really	generous	overall	only	good
+doc279-pos-(3324).txt	always	new	very	kindly	good	clean	very	good
+doc280-pos-(3325).txt	many	certainly	again	cheap	low	large	even	extra	large	sometimes	more	reliable	friendly	english	not	particularly	good	reasonable
+doc281-pos-(3326).txt	first	2nd	very	very	friendly	professional	english	hungarian	so	again
+doc282-pos-(3327).txt	more	possible	just	perfect	clean
+doc283-pos-(3328).txt	slight	just	almost	not	well	there	dirty	good	frequent	hot	again	sure
+doc284-pos-(3329).txt	just	frequently	always	extra	there	very	good	fairly	new	only	hardly	available	now	there	cheaper	not	best	otherwise	good	major	there	little	earlier
+doc285-pos-(3330).txt	good	ready	even	full	never	not	inbound	not	back	also	up	so	aware	ready	least	earlier	actually	am	other	indeed	reasonable	so	enough	good	nice	entire	low	good	left	exactly	indeed	very	sharp	so	also	better	sharp	also	really	so	bad	sometimes
+doc286-pos-(3331).txt	excellent	helpful	friendly	left	clean	definitely	again	free	tiny	actually
+doc287-pos-(3332).txt	actually	very	good	left	earlier	friendly	discreet	nice	comfortable	secure	good	not
+doc288-pos-(3333).txt	happy	directly	beautiful	pleasant	comfortable	such	good	such	short	good	also	other	sure	new
+doc289-pos-(3334).txt	many	especially	normally	very	pleasant	excellent	hungary	pretty	much	same	normal	such	easy	very	punctual	always	too	warm	picky	overall	excellent
+doc290-pos-(3335).txt	cheap	basic	additional	basic	comfortable	usual	not	longer	more
+doc291-pos-(3336).txt	very	good	very	pleasant	helpful	good	too	well
+doc292-pos-(3337).txt	surpised	normal	not	very	attentive	not	too	much
+doc293-pos-(3338).txt	good	terrible	twice
+doc294-pos-(3339).txt	last	much	possible	low	mostly	mostly	usually	resonable	very	good	too	strict	quite	litle	problematic	not	high	more	more	difficult	just	well	pleasant	good	very
+doc295-pos-(3340).txt	first	soon	second	ever	professional
+doc296-pos-(3341).txt	good	convenient	relatively	cheap	however	soon	up	fairly	regularly	worth	annual	very	well	extra	large	there	free	fair	good	scared
+doc297-pos-(3342).txt	often	always	maybe	only	not	later	more	not	very	funny
+doc298-pos-(3343).txt	quite	often	there	always	very	good	very	modern	only	there	strict	so	correct	smaller	other	so	aware	very	impressed	so	cheap
+doc299-pos-(3344).txt	recently	photographic	most	now	extra	easy	enough	carefully	there	wrong	short	very	full	just	short	so	not	too	comfortable	too	long	full	galore	nowadays	extra	sure	whole	cheap	cheerful	short	little	due	bad	up
+doc300-pos-(3345).txt	fairly	new	clean	frendly	excellent
+doc301-pos-(3346).txt	many	negative	familiar	not	likely	yes	yes	yes	yes	there	not	enough	tall	low	mainly	positive	clean	comfortable	polite	helpful	great	additional
+doc302-pos-(3347).txt	good	good	eastern	there	especially
+doc303-pos-(3348).txt	low	so	extra	real	many	not	greatest	so	longer	probably	more	few
+doc304-pos-(3349).txt	up	popular	less	popular	equally	worthy	western	generally	quite	once	so	far	so	good
+doc305-pos-(3350).txt	globally	low	special	good	good	eastern
+doc306-pos-(3351).txt	direct	very	quickly	friendly	hungarian	just	well	little	extra	extra	poor	so	comfy	quickly	purple
+doc307-pos-(3352).txt	very	cheap	small	easy	left	quite	comfortable	friendly	definitely	back
+doc308-pos-(3353).txt	long	pretty	clear	then	wrong	definitely	again	so	cheap	ahead
+doc309-pos-(3354).txt	not	sure	lovely	clean	new	helpful	efficient	definitely	again	available	very	limited
+doc310-pos-(3355).txt	impossible	also	big	bigger	free	very	small	however	very	good
+doc311-pos-(3356).txt	efficient	punctual	good	reasonable	also
+doc312-pos-(3357).txt	perfect	nice	new	perfect
+doc313-pos-(3358).txt	usually	quick	good	really	new	very	nicely	not	friendly
+doc314-pos-(3359).txt	indeed	very	cheap	big	different	overall	back	little	big	extra	very	different	same	so	only	reasonable	extra	mandatory
+doc315-pos-(3360).txt	great	exactly	relatively	new	not	little	early
+doc316-pos-(3361).txt	very	comfortable	proper	not	too	hot	not	too	cold	professional	funny	same
+doc317-pos-(3362).txt	however	worst	ever	hard	not	quite	pleasant	quick	back	prompt	nearly	first	unpleasant	rude	utter	general	always	first
+doc318-pos-(3363).txt	sometimes	sometimes	not	not	so	comfy	now
+doc319-pos-(3364).txt	many	really	comfortable	punctual	very	easy	due	good	highly
+doc320-pos-(3365).txt	short	usual	not	much	cheap	little	so	just	quiet	not	much	overall	am	satisfied	long	so	so	longer
+doc321-pos-(3366).txt	certainly	minimal	however	honestly	so	up	not	clean	almost	also	somewhat	however	good
+doc322-pos-(3367).txt	many	quite	comfortable	usually	rare	clear	comfortable	low	low	affordable	overall	quite	pleasureable	nice	short
+doc323-pos-(3368).txt	low	so	extra	sure	too	large	extra	also	sure	otherwise	long	nice	new
+doc324-pos-(3369).txt	low	much	surprisingly	more	other	low	only	only	slight	good	especially	eastern	not	different	personal	low	not	personal	there	personal	only
+doc325-pos-(3370).txt	very	not	enough	am	pretty	small	short	just	great	many	even	nice	very	well
+doc326-pos-(3371).txt	first	first	fantastic	small	only	plenty	only	terminal	little	easier	plenty	great
+doc327-pos-(3372).txt	very	limited	attentive	friendly	inexpensive	however	very	limited	normal	long	almost
+doc328-pos-(3373).txt	first	cheapest	far	normal	quickly	very	strict	away	back	normal	clean	tidy	really	good	left	very	impressed	definately	again	am
+doc329-pos-(3374).txt	good	low	great	low	many
+doc330-pos-(3375).txt	surprisingly	cozy	able	good	now	am	big	quite	surprised	enough	so
+doc331-pos-(3376).txt	not	best	small	not	big	usually	so	cheap
+doc332-pos-(3377).txt	narrow	not	possible	full	overcrowded	low
+doc333-pos-(3378).txt	quite	low	mostly	other	first	good	overall	nice	more	modern	still	low	obviously
+doc334-pos-(3379).txt	decent	friendly	nice	there	low	usually	other	extra	not	so	great	good	short	minimal
+doc335-pos-(3380).txt	very	good	low	approx	good	nice	friendly
+doc336-pos-(3381).txt	not	low	usually	horrible	pleasant	very	polite	helpful	free	nice	back	uneventful	just
+doc337-pos-(3382).txt	safe	quite	clean	relatively	confortable	not	better	regular	extra	good	not	very	expensive	too	long	also	many
+doc338-pos-(3383).txt	simple	many	ridiculously	cheap	adequate	great
+doc339-pos-(3384).txt	good	reasonable
+doc340-pos-(3385).txt	clean	enough	very	nice	late	good
+doc341-pos-(3386).txt	present	there	absolutely	so	extra	alone	english	there	big
+doc342-pos-(3387).txt	good	very	well	often	not	currently	high	low
+doc343-pos-(3388).txt	good	low	eastern	other	very	strict	so	large	generally	whole	much	better
+doc344-pos-(3389).txt	last	competitive	great	high	enough	comfortably	even	there	great	once	sick	full	always	nice
+doc345-pos-(3390).txt	first	excellent	unbelievably	low	still	close	real	so	small	nice	there	central	comparably	cheap
+doc346-pos-(3391).txt	there	quite	long	terminal	inbound	comfortable	overall	low	very	good
+doc347-pos-(3392).txt	good	low	unfortunately	not	anymore	just	too	expensive	ordinary	now
+doc348-pos-(3393).txt	just	plain	always	bad	most	back	early
+doc349-pos-(3394).txt	really	pleasant	polite	helpful	friendly	low	there	not
+doc350-pos-(3395).txt	well	most	am	mostly	good	good
+doc351-pos-(3396).txt	great	very	good	so	more
+doc352-pos-(3397).txt	again	dental	good	amazing	best	low	experienced	even	sure	free	sure	extra	small	generally	brilliant	short	worth	apart	excellent
+doc353-pos-(3398).txt	once	purple	great	comparable	other	adequate	not	exciting	mainly	eastern	always	amusing	successful
+doc354-pos-(3399).txt	very	low	only	quite	far	cumbersome
+doc355-pos-(3400).txt	regular	probably	better	low	true	very	much	low	always	little	further	comfortable	possible
+doc356-pos-(3401).txt	always	very	good	great	great
+doc357-pos-(3402).txt	second	great	acceptable	direct
+doc358-pos-(3403).txt	great	great	decent	low	equal	easy	simple	great	helpful	speedy	loving
+doc359-pos-(3404).txt	simple	instead	again	11th	beloved	closer	still	sunny	hilly	nice	so	first	frequent	there	not	really	there	so	several	well	however	clear	not	more	easy	other	special	maybe	agressive	non	very	positive	same	randomly	not	probably	high	back	well	small	properly	back	well	proper	other	regular	still	up	longer	extra	not	not	disturbing	not	too	far	hungary	back	easily	really	not	low	tolerable	only	instead	good
+doc360-pos-(3405).txt	nice	low	typical	extra	big	also
+doc361-pos-(3406).txt	slight	left	otherwise	perfect	same	well
+doc362-pos-(3407).txt	great	good	friendly	cheap	extra	free	definitely	again	smoothly
+doc363-pos-(3408).txt	quite	new	very	not	expensive	also	very	good
+doc364-pos-(3409).txt	safe	very	helpful	polite	beautiful
+doc365-pos-(3410).txt	very	satisfied	easy	safe	same	other	bigger	much	cheaper
+doc366-pos-(3411).txt	quite	worse	then	regular	again
+doc367-pos-(3412).txt	best	low	very	clean	great	good	wide	ample	easy	up	down	extra	great
+doc368-pos-(3413).txt	low	not	much	short	not	really	worst	especially	due	not	here	strict	there	always	so	early	much	still	cheap	even	personally	small	especially	nowadays
+doc369-pos-(3414).txt	good	higher	low	unfortunately	appalling	definitely	greatly	concerned
+doc370-pos-(3415).txt	almost	least	best	good	good	good	however	such	exthohrbitant	more	little	up	pre	other
+doc371-pos-(3416).txt	few	correct	only	open	nice	good
+doc372-pos-(3417).txt	efficient	low	good	eastern	more	less	convenient	big	extra	pre	more	necessary	fairly	expensive	other	little	chaotic	too	unbearable	free
+doc373-pos-(3418).txt	extra	worth	extra	so	definitely	again
+doc374-pos-(3419).txt	frequent	cheapest	far	aside	efficient	always	prompt	clean	comfortable	courteous	now	more	soon	especially	good	sometimes	little	especially	cold	final	small	regularly	free	best	long	select	later	other	so	more
+doc375-pos-(3420).txt	low	competitive	particularly	different	comfortable	left	more	less	same	surprisingly	comfortable	tiny	wider	many	other	free	courteous	only	again
+doc376-pos-(3421).txt	reliable	garish	delightful	uneventful	very	good	especially	middle	east	eastern	well	plenty	wonderful	glad	few	wakeful	overnight
+doc377-pos-(3422).txt	very	cheap	small	extra	much	more	confortable	national
+doc378-pos-(3423).txt	correct	nice	careful
+doc379-pos-(3424).txt	ususal	low	large
+doc380-pos-(3425).txt	well	great	so	pretty	high	even	low	especially	direct	also	higher	so	cheaper	other	easy	accesible	direct	very	good	only	namely	also	only	weekly	italy	also	local	small	completely	very	good	most	important	totally	completely	new	really	best	properly	international	only	recently	exageratedly	strict	especially	personal	outstandingly	strict	very	attentive	smallest	personal	then	hastily	so	smaller	full	so	big	there	also	there	always	other	whole	good	stable	smoothly	same	good	however	little	strange	there	few	almost	completely	dark	middle	nowhere	complete	good	nicely
+doc381-pos-(3426).txt	well	least	honest	low	frightened	not	terrible	late	so
+doc382-pos-(3427).txt	worth	just	too	bad	so	late
+doc383-pos-(3428).txt	usually	very	good	almost	never	always	friendly	whole	very	easy
+doc384-pos-(3429).txt	now	generally	decent	important	sure	right	small	mistakenly	whopping	right	not	clearly	right	here	early	much	cheaper	worth	extra	extra	good	only	more	extra	well	worth	good	right
+doc385-pos-(3430).txt	very	good	early	crisp	left	uneventful	good
+doc386-pos-(3431).txt	first	impressed	quite	tall	enough	less	good	good
+doc387-pos-(3432).txt	not	possible	quite	new	long	short	okay	well	worth	extremely	cheap
+doc388-pos-(3433).txt	gratefully	other	there	large	different	same	same
+doc389-pos-(3434).txt	nice	extra	worth	certainly	better	sleazy	sorry
+doc390-pos-(3435).txt	excelent	direct	not	great	there	only	very	basic	very	stern	there	welcome	good	only	again	direct
+doc391-pos-(3436).txt	interesting	not	always	still	quite	regular	quite	pretty	heavy	big	safely	big
+doc392-pos-(3437).txt	very	helpful	very	good	reasonably	spacious
+doc393-pos-(3438).txt	very	good	reasonable	never	intuitive	not	fast	good	even
+doc394-pos-(3439).txt	even	worth	right	cheap	normal	free	more	just	else	simple	fabulous	right	then
+doc395-pos-(3440).txt	several	excellent	1st	friendly	punctual	comfy	straightforward
+doc396-pos-(3441).txt	new	correct	additional	safe	never	unsafe	not
+doc397-pos-(3442).txt	friendly	expensive	there	honest	there	so
+doc398-pos-(3443).txt	okay	rather	cheap	so	high	excellent	enough	back	not	uncomfortable	properly	even	open	ahead	rather	disappointing
+doc399-pos-(3444).txt	just	good	good	so	little	iffy	even
+doc400-pos-(3445).txt	funny	stinky	not	late	late
+doc401-pos-(3446).txt	excellent	friendly	excellent
+doc402-pos-(3447).txt	easy	still	not	remote	comfortable	really	friendly	very	funny	soft	too	clean	good
+doc403-pos-(3448).txt	always	quite	pleasant	am	quite	accustomed	now	so	far	not	down	extra	so	here	also	first	first	often	worth	optional
+doc404-pos-(3449).txt	significantly	few	currently	significant	few	longer	still	great	due	easy	less	well	various	even	particularly	convenient	experienced	very	few	few	due	other	major	still
+doc405-pos-(3450).txt	new	young	polite	much	better	other	also	extensive	very	important	currently	best	reasonable

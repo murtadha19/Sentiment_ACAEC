@@ -1,0 +1,406 @@
+doc1-neg-(1406).txt	so#r	never#r	aback#r	human#a	then#r	first#r	there#r	then#r	finally#r	then#r	located#a	back#r	weary#a	really#r	bad#a	worse#a	slightly#r	hysterical#a	full#a	now#r	hungry#a	almost#r	worthwhile#a	well#r	ridiculous#a	sufficiently#r	not#r	wobbly#a	very#r	late#r	pre#a	able#a	there#r	last#a	not#r	very#r	polite#a	good#a	safe#a	there#r	indeed#r	literally#r	am#r	happy#a	relatively#r	uneventful#a	dear#r	old#a	full#a	much#r	damn#r
+doc2-neg-(1407).txt	not#r	up#r	so#r	annoyed#a	always#r	just#r	larger#a	so#r	normal#a	always#r	many#a	not#r	even#r
+doc3-neg-(1408).txt	28th#a	definitely#r	worst#a	careful#a	terrible#a
+doc4-neg-(1409).txt	various#a	better#r	other#a	due#a	poor#a
+doc5-neg-(1410).txt	always#r	more#r	also#r	so#r	cheap#a	so#r	normal#a	really#r	better#r	servic#a
+doc6-neg-(1411).txt	just#r	easy#a	other#a	cheap#a	up#r	more#r
+doc7-neg-(1412).txt	low#a	not#r	possible#a
+doc8-neg-(1413).txt	much#r	smaller#a	not#r	very#r	considerate#a	too#r	big#a	large#a	extra#a	still#r
+doc9-neg-(1414).txt	latest#a	worst#a	normally#r	so#r	together#r	also#r	always#r	large#a	more#r	middle#a
+doc10-neg-(1415).txt	even#r	smallest#a	still#r	apparently#r
+doc11-neg-(1416).txt	very#r	expensive#a	inefficient#a	limited#a	small#a	back#r	very#r	limited#a	free#a	last#a	small#a	not#r	so#r	not#r	only#r	poor#a	middle#a
+doc12-neg-(1417).txt	never#r	so#r	few#a	perfect#a	perfect#a	terrible#a
+doc13-neg-(1418).txt	terrible#a	quite#r	far#r	away#r	now#r	so#r	far#r	so#r	good#a	more#r	absolutely#r	there#r	prior#r	already#r	well#r	least#a	nearest#a	even#r	false#a	obviously#r	now#r	great#a	more#r	twice#r	again#r	so#r
+doc14-neg-(1419).txt	sadly#r	terrible#a	not#r	worst#a	initially#r	then#r	many#a	distressed#a	only#r	there#r	direct#a	back#r	20th#a	16th#a	ready#a	not#r	very#r	nice#a	only#r	wrong#a	6am#a	30pm#a	previous#a	back#r	now#r
+doc15-neg-(1420).txt	huge#a	usual#a	several#a	never#r	scottish#a	ridiculous#a
+doc16-neg-(1421).txt	first#r	good#a	good#a	convinced#a	sure#r	clear#a	low#a	however#r	not#r	bad#a	never#r	experienced#a	not#r	enough#r	far#r	totally#r	non#a	ergonomic#a	entire#a	even#r	cheap#a	am#r	not#r	convinced#a
+doc17-neg-(1422).txt	not#r	really#r	helpful#a	professional#a
+doc18-neg-(1423).txt	okay#a	then#r	then#r	small#a	last#a	never#r	too#r	big#a	well#r	even#r	apparently#r	normal#a	more#r	good#a	definitely#r	less#a	negative#a
+doc19-neg-(1424).txt	only#r	so#r	there#r	only#r	however#r	anywhere#r	pertinent#a	extensive#a	small#a	up#r	correct#a	smaller#a	then#r	other#a	low#a	smallest#a	tiny#a	only#r	normal#a	less#a	highest#a	overall#r
+doc20-neg-(1425).txt	even#r	literally#r	away#r	terminal#a	once#r	there#r	open#a	small#a	once#r	very#r	slow#a	once#r	first#r	counter#r	tiny#a	so#r	approx#r	small#a	countless#a	major#a	well#r	low#a	such#a	easy#a	first#r	away#r
+doc21-neg-(1426).txt	long#r	hungarian#a	grand#a	few#a	large#a	so#r	instead#r	now#r	already#r	then#r	unable#a	extra#a	again#r	unsurprising#a	large#a	so#r	last#a	different#a	many#a	now#r	extra#a	full#a	just#r
+doc22-neg-(1427).txt	am#r	frequent#a	so#r	quite#r	picky#a	however#r	just#r	too#r	big#a	unscrupulous#a	commercial#a	random#a	other#a	so#r
+doc23-neg-(1428).txt	never#r	ever#r	again#r	well#r	away#r	rude#a	impossible#a	more#r	unhelpful#a	down#r	right#r	rude#a	not#r	interested#a	3rd#a	just#r	not#r	even#r	again#r	back#r	nowhere#r	directly#r	well#r	away#r
+doc24-neg-(1429).txt	not#r	pretty#r	rude#a	good#a	hungary#a	hungarian#a	english#a	really#r	good#a
+doc25-neg-(1430).txt	messy#a	best#r	more#r	friendly#a	unpleasant#a	mainly#r	due#a	there#r	uninterested#a	only#r	other#a	little#r	english#a	left#r	cheap#a	well#r	cheap#a	not#r	pleasant#a	many#a	then#r	direct#a
+doc26-neg-(1431).txt	excellent#a	wrong#a	repeatedly#r	right#r	just#r	left#r	there#r	long#r	straight#r	reasonable#a	hungary#a	only#r	not#r	not#r	safe#a	so#r	just#r
+doc27-neg-(1432).txt	very#r	different#a	other#a
+doc28-neg-(1433).txt	only#r	different#a	not#r	high#a	ever#r	up#r	full#a	only#r	available#a	so#r	not#r	only#r	same#a	many#a	many#a	same#a	normal#a	shady#a	disreputable#a	apparently#r	not#r	so#r	blatantly#r
+doc29-neg-(1434).txt	last#a	affordable#a	expensive#a	such#a	poor#a	snobbish#a	especially#r	twice#r	up#r	up#r	available#a	comfortable#a	indeed#r	low#a	never#r	safe#a	much#r	possible#a
+doc30-neg-(1435).txt	cheap#a	dirty#a	old#a	poor#a	english#a	unprofessional#a	nice#a	there#r	highly#r	not#r	excellent#a	perfect#a
+doc31-neg-(1436).txt	aproximately#r	unfortunately#r	also#r	back#r	late#r	unacceptable#a
+doc32-neg-(1437).txt	twice#r	restricted#a	high#a	long#r
+doc33-neg-(1438).txt	ridiculous#a	merely#r	free#a	ahead#r	miserable#a	narrow#a	comfortable#a	single#a	somewhat#r	inadequate#a	absent#a	even#r
+doc34-neg-(1439).txt	late#r	then#r	incompletely#r	not#r	normal#a	nevertheless#r
+doc35-neg-(1440).txt	old#a	there#r	limited#a	extra#a	first#r	not#r	there#r	so#r	second#a	second#a	third#a	empty#a	lucky#a	there#r	bigger#a	just#r	there#r	anyway#r	there#r	obviously#r	old#a	so#r	really#r	obviously#r	best#r	really#r	helpful#a	not#r	totally#r	extra#a	worth#a	so#r	now#r	much#r	better#r	safer#a	there#r	well#r
+doc36-neg-(1441).txt	not#r	very#r	pleasant#a	there#r	clear#a	bad#a	really#r	honestly#r	only#r	tight#r	somewhere#r	good#a	else#r
+doc37-neg-(1442).txt	woeful#a	best#r	so#r	far#r	rude#a	aggressive#a	never#r	again#r
+doc38-neg-(1443).txt	last#a	low#a	unfortunately#r	not#r	late#r	due#a	unknown#a	additional#a	up#r
+doc39-neg-(1444).txt	relatively#r	short#r	there#r	open#a	then#r	later#r	perhaps#r	best#r	then#r	hotter#a	medical#a	there#r	mysterious#a	long#r	short#r	simply#r	few#a	further#r	forward#r	eventually#r	uneventful#a	very#r	pleasant#a	helpful#a
+doc40-neg-(1445).txt	additional#a	unfriendly#a	high#a	altogether#r	finaly#r	normal#a	not#r	sufficient#a
+doc41-neg-(1446).txt	not#r	not#r	able#a	therefor#r	black#a	white#a
+doc42-neg-(1447).txt	cheap#a	else#r	just#r	electronic#a	thus#r	not#r	more#r	ever#r
+doc43-neg-(1448).txt	currently#r	due#a	several#a	same#a	just#r
+doc44-neg-(1449).txt	first#r	last#a	bad#a	bad#a	bad#a	bad#a	not#r	so#r	extra#a	then#r	other#a
+doc45-neg-(1450).txt	ridiculous#a	uncomfortable#a	packed#a	rude#a	relatively#r	expensive#a	worst#a
+doc46-neg-(1451).txt	worst#a	early#r	so#r	open#a	there#r	too#r	late#r	absolutely#r	pathetic#a	not#r	other#a	free#a	even#r	not#r	open#a	actually#r	innocent#a	human#a	last#a	cheap#a	not#r	worth#a	well#r
+doc47-neg-(1452).txt	3rd#a	very#r	low#a	english#a	very#r	other#a	impossible#a	first#r	very#r	so#r	terrible#a	there#r	low#a	never#r	again#r
+doc48-neg-(1453).txt	2am#a	late#r	unfortunately#r	main#a	still#r	back#r	enough#r	then#r	due#a	not#r	there#r	6am#a	up#r	just#r	several#a	only#r	other#a	back#r	later#r	back#r	never#r	own#a	am#r	not#r	back#r	also#r	noreply#r	so#r	very#r	much#r	own#a	dear#r	unfortunately#r	only#r	best#r	dear#r	apart#r	automatic#a	third#a	other#a	other#a	third#a	such#a	so#r	only#r	third#a	such#a	several#a	only#r	liable#a	general#a	such#a	servic#a
+doc49-neg-(1454).txt	not#r	wrong#a	horrendous#a
+doc50-neg-(1455).txt	already#r	different#a	certainly#r	worst#a	big#a	never#r	again#r
+doc51-neg-(1456).txt	already#r	so#r	only#r	yet#r	extra#a	cheapest#a	fair#a	there#r	anyway#r	more#r	equally#r	rotten#a	only#r	tiny#a	free#a	moderately#r	else#r	several#a	not#r	really#r	now#r	especially#r	actually#r	sorry#a	not#r	only#r	not#r	other#a	same#a	back#r	back#r	very#r	careful#a	not#r	free#a	so#r	free#a	there#r	small#a	enough#r	free#a	other#a	free#a	down#r
+doc52-neg-(1457).txt	disturbing#a	well#r	so#r	up#r	just#r	just#r	even#r	located#a	new#a	great#a	not#r
+doc53-neg-(1458).txt	other#a	up#r	even#r	short#r	nice#a	free#a	rather#r	absolutely#r	nice#a	same#a	back#r	more#r
+doc54-neg-(1459).txt	first#r	most#r	other#a	too#r	big#a	easy#a	large#a	small#a	large#a	so#r	small#a
+doc55-neg-(1460).txt	generally#r	helpful#a	foul#a	barely#r	3cm#a	old#a	back#r	soon#r	packed#a	extra#a	limited#a	expensive#a
+doc57-neg-(1462).txt	back#r	plain#r	back#r	there#r	more#r	close#r	am#r	here#r	then#r	ridiculous#a	able#a	back#r	lucky#a	exact#a	same#a	same#a	there#r	anyway#r	last#a	then#r	well#r	typical#a	hungarian#a	much#r	possible#a	old#a	old#a	old#a	back#r	well#r	so#r	there#r	there#r	just#r	pure#a	bare#a	there#r	other#a	bigger#a	late#r	easy#a
+doc58-neg-(1463).txt	last#a	worst#a	ever#r	here#r	now#r	even#r	same#a	usual#a	usual#a	due#a	right#r	same#a	even#r	pregnant#a	so#r	other#a	worth#a	poor#a	very#r	expensive#a	barely#r	impossible#a	meanwhile#r	new#a	never#r	again#r	away#r
+doc59-neg-(1464).txt	horrible#a	horrible#a	present#a	aggressive#a	miniscule#a	left#r	not#r	unchallenged#a	large#a
+doc60-neg-(1465).txt	acoustic#a	down#r	large#a	extra#a	good#a	free#a	big#a	friendly#a
+doc61-neg-(1466).txt	bad#a	high#a	bad#a
+doc62-neg-(1467).txt	there#r	further#r	technical#a	inbound#a	several#a	just#r	earlier#r	only#r	just#r	further#r	later#r	eventually#r	forward#r	there#r	cramped#a	further#r	normal#a	best#r	however#r	absolutely#r	dreadful#a	timely#a	not#r	not#r	nice#a
+doc63-neg-(1468).txt	shoddy#a	absolutely#r	not#r	worth#a	minuscule#a	more#r	outgoing#a	low#a	significant#a	however#r	there#r	distinct#a	positively#r	dire#a	back#r	left#r	plenty#r	ahead#r	unfortunately#r	there#r	temporarily#r	due#a	extreme#a	severe#a	due#a	constantly#r	there#r	possible#a	able#a	initial#a	not#r	helpful#a	just#r	due#a	directly#r	aware#a	significant#a	unable#a	hefty#a	reluctantly#r	almost#r	very#r	little#r	english#a	english#a	extremely#r	rude#a	unhelpful#a	not#r	liable#a	unable#a	due#a	bad#a	not#r	not#r	regardless#r	further#r	available#a	not#r	able#a	partial#a	extremely#r	unfair#a	then#r	further#r	then#r	hung#a	up#r	annoyed#a	immensely#r	so#r	not#r	only#r	back#r	also#r	useless#a	rude#a	good#a	unable#a	not#r	up#r	pathetic#a	just#r	big#a	away#r	worse#a	not#r
+doc64-neg-(1469).txt	lousy#a	so#r	sad#a	terribly#r	up#r	extra#a	much#r	more#r	low#a	away#r
+doc65-neg-(1470).txt	just#r	many#a	huge#a	extra#a	longer#r	free#a	completely#r	unrealistic#a	even#r	bigger#a	only#r	more#r	very#r	unpleasant#a	rubbish#a	small#a	not#r	very#r	comfortable#a	there#r	even#r	bad#a	there#r	poor#a	so#r	much#r	extra#a	bad#a	not#r	worthy#a
+doc66-neg-(1471).txt	extra#a	original#a	confident#a	well#r	final#a	not#r	good#a	more#r	careful#a	large#a	well#r	different#a	not#r	up#r	useless#a	responsible#a	only#r	away#r	not#r	right#r	now#r	only#r	once#r	again#r
+doc67-neg-(1472).txt	up#r	extra#a	hard#r	not#r	enough#r	extra#a	not#r	nice#a
+doc68-neg-(1473).txt	not#r	possibly#r	even#r	poor#a	general#a	private#a
+doc69-neg-(1474).txt	5cm#a	too#r	tall#a	well#r	other#a	ever#r	perhaps#r	able#a	not#r	last#a	personally#r	particularly#r	most#r	other#a	able#a	20kg#a	worth#a	long#r	more#r	not#r	again#r	opportunistic#a	malicious#a	not#r	such#a	small#a	easily#r	there#r
+doc70-neg-(1475).txt	5cm#a	normal#a	worst#a	most#r	disrespectful#a	ever#r	never#r	ever#r	again#r	never#r
+doc71-neg-(1476).txt	possible#a	so#r	little#r	back#r	later#r	tall#a	well#r	little#r	back#r	up#r	up#r	down#r	obviously#r	back#r	again#r	down#r	just#r	up#r	little#r	little#r	little#r	longer#r	little#r	down#r	sternly#r	so#r	well#r	back#r	obviously#r	clean#a	up#r	other#a	kindly#r	up#r	more#r	now#r	not#r	away#r	never#r	ever#r	again#r	not#r	also#r	very#r	very#r	expensive#a	old#a	extra#a
+doc72-neg-(1477).txt	extra#a	however#r	not#r	then#r	hot#a	terminal#a	non#a	non#a	still#r	able#a	again#r	terminal#a	there#r	not#r
+doc73-neg-(1478).txt	overnight#r	left#r	unattended#a	very#r	least#a	close#r	helpful#a	shocking#a
+doc74-neg-(1479).txt	left#r	extremely#r	expensive#a	afterwards#r	worst#a	ever#r	never#r	again#r	better#r	little#r	extra#a	decent#a
+doc75-neg-(1480).txt	pointedly#r	specific#a	baltic#a	precisely#r	else#r	baltic#a	however#r	much#r	vile#a	immature#a	little#r	collectively#r	already#r	mobile#a	unheard#a	previous#a	allegedly#r	invalid#a	mobile#a	whatsoever#r	yet#r	young#a	other#a	fictitious#a	extra#a	nevertheless#r	horrifying#a	almost#r	horrifying#a	extra#a	undue#a	fictitious#a	not#r	baltic#a	officially#r	slow#a	incontrovertible#a	up#r	hefty#a	simple#a	basically#r	subjectively#r	not#r	far#r	satisfactorily#r
+doc76-neg-(1481).txt	cheap#a	not#r	extremely#r	cheap#a	absolutly#r	even#r	normal#a	together#r	furthermore#r	not#r	correct#a	perfectly#r	understandable#a	just#r	more#r	only#r	so#r	again#r	not#r
+doc77-neg-(1482).txt	fair#a	few#a	more#r	more#r	unpredictable#a	same#a	always#r	extra#a	maybe#r	worse#a	same#a	same#a	straight#r	later#r	different#a	nice#a	many#a	so#r	just#r	generally#r	good#a
+doc78-neg-(1483).txt	first#r	not#r	then#r	horrible#a	cold#a	basically#r	down#r	not#r	really#r	much#r	frequent#a	very#r	uncomfortable#a	too#r	much#r	bad#a
+doc79-neg-(1484).txt	mainly#r	cheaper#a	other#a	civilised#a	enough#r	pre#a	small#a	ridiculous#a	just#r	back#r	still#r	free#a	honestly#r	not#r	not#r	friendly#a	already#r	small#a	not#r	small#a	enough#r	own#a	am#r	sorry#a	irrational#a
+doc80-neg-(1485).txt	back#r	only#r	not#r	pleasant#a	not#r	first#r	low#a	here#r	exaggerated#a	even#r	up#r	low#a	not#r	main#a	theoretically#r	possible#a	even#r	most#r	extra#a	actually#r	original#a	back#r	just#r	then#r	more#r	not#r	even#r	not#r	up#r	never#r	again#r
+doc81-neg-(1486).txt	few#a	relatively#r	easy#a	early#r	larger#a	puzzling#a	other#a	normal#a	tight#r	taller#a	general#a	always#r	corporate#a	still#r	up#r	manually#r	many#a	other#a
+doc82-neg-(1487).txt	so#r	dirty#a	am#r	small#a	free#a	so#r	always#r	mic#a	small#a	terrible#a
+doc83-neg-(1488).txt	here#r	again#r	con#r	same#a	too#r	tall#a	wide#a	deep#r
+doc84-neg-(1489).txt	first#r	maybe#r	last#a	very#r	helpful#a	nice#a	very#r	good#a	very#r	dirty#a	uncomfortable#a	tight#r	really#r	not#r	good#a
+doc85-neg-(1490).txt	so#r	bad#a	hard#r	even#r	low#a	much#r	really#r	first#r	late#r	second#a	down#r	now#r	third#a	simply#r	later#r	very#r	very#r
+doc86-neg-(1491).txt	full#a	more#r	other#a
+doc87-neg-(1492).txt	almost#r	bad#a	always#r	rude#a	unpleasant#a	only#r	otherwise#r	there#r	only#r	really#r	scary#a	always#r	not#r	very#r	strict#a	extra#a	not#r	easy#a	free#a	good#a	few#a	real#r	not#r	overweight#a	lucky#a	mid#a	otherwise#r	so#r	extra#a	so#r	uncomfortable#a	mixed#a	sometimes#r	less#a	50eur#a	regular#a	commercial#a	only#r	double#r	once#r	again#r	even#r	not#r	maybe#r	not#r	however#r	sure#r	other#a	only#r	low#a	only#r	still#r	so#r
+doc88-neg-(1493).txt	quite#r	few#a	early#r	not#r	so#r	many#a	right#r	however#r	also#r	other#a	more#r	not#r	typical#a	few#a	not#r	actually#r	good#a	competent#a	personally#r	bumpy#a	additional#a	personal#a
+doc89-neg-(1494).txt	uncomfortable#a	small#a	expensive#a	not#r	much#r	just#r	good#a	always#r	late#r	unlimitted#a
+doc90-neg-(1495).txt	worst#a	low#a	worst#a	ever#r	worst#a	smallest#a	really#r	worst#a	only#r	possible#a	acceptable#a	low#a	same#a	now#r	not#r	anymore#r	only#r	small#a	small#a	too#r	big#a	better#r	not#r
+doc91-neg-(1496).txt	many#a	worse#a	higher#a	smaller#a	new#a	even#r	less#a	shorter#a	then#r	older#a	only#r	good#a	so#r	least#a
+doc92-neg-(1497).txt	only#r	direct#a	not#r	exactly#r	low#a	large#a	large#a	new#a	good#a	good#a	right#r	here#r	good#a	impossible#a	first#r	not#r	small#a	full#a	personal#a	small#a	personal#a	last#a	anyway#r	so#r	just#r	left#r	unattended#a	not#r	not#r	else#r	entire#a	second#a	so#r	long#r	short#r	blonde#a	entire#a	convinced#a	other#a	such#a	uneducated#a	disrespectful#a	mock#a	more#r	rather#r
+doc93-neg-(1498).txt	small#a	different#a	wrong#a	internationally#r	internationally#r	suddenly#r	even#r	long#r
+doc94-neg-(1499).txt	second#a	very#r	few#a	larger#a	so#r	extra#a	friendly#a	big#a	too#r
+doc95-neg-(1500).txt	many#a	never#r	very#r	basic#a	wrong#a	appalling#a	back#r	busy#a	real#r	then#r	new#a	later#r	there#r	then#r	even#r	more#r	expensive#a	not#r	only#r	new#a	right#r	late#r	never#r	able#a	even#r	suddenly#r	not#r	english#a	only#r
+doc96-neg-(1501).txt	not#r	sure#r	so#r	certainly#r	more#r	amazingly#r	awful#a	awful#a	late#r	inbound#a	abysmal#a	quite#r	rudely#r	not#r	available#a	then#r	else#r	less#a	such#a	smaller#a	even#r	there#r	not#r	very#r	little#r	not#r	much#r	ridiculous#a	worse#a	not#r	even#r	cheap#a
+doc97-neg-(1502).txt	okay#a	several#a	previous#a	so#r	then#r	then#r	previous#a	super#a	bad#a	up#r	full#a	totally#r	crappy#a	seriously#r	cheap#a	up#r	quite#r	valuable#a	never#r	anymore#r
+doc98-neg-(1503).txt	too#r	busy#a	not#r	enough#r	stroppy#a	better#r	extra#a	more#r
+doc99-neg-(1504).txt	there#r	direct#a	even#r	almost#r	not#r	first#r	most#r	uncomfortable#a	not#r	complimentary#a
+doc100-neg-(1505).txt	up#r	there#r	worst#a	ever#r	aware#a	extra#a	single#a	ever#r	common#a	extra#a	once#r	then#r	so#r	admittedly#r	high#a	most#r	definitely#r	extra#a	much#r	other#a	higher#a	only#r	large#a	far#r	small#a	stingy#a
+doc101-neg-(1506).txt	unfriendly#a	first#r	even#r	plenty#r	also#r	not#r	not#r	polite#a	efficient#a	perfectly#r	funnily#r	enough#r	also#r	many#a	other#a	different#a	later#r	there#r	up#r	never#r	ever#r	again#r	now#r
+doc102-neg-(1507).txt	second#a	long#r	due#a	short#r	not#r	very#r	cheap#a	just#r	cheaper#a	other#a	only#r	few#a	however#r	long#r	expensive#a	constant#a	real#r	finally#r	random#a	40eur#a	not#r	fitting#a	sorry#a	few#a	old#a	extra#a	terrible#a	not#r	subjective#a	normal#a	never#r	again#r
+doc103-neg-(1508).txt	not#r	low#a	back#r	whole#a	possible#a	larger#a	indeed#r	good#a	not#r
+doc104-neg-(1509).txt	only#r	larger#a	larger#a	so#r	very#r	rudely#r	clearly#r	not#r	clearly#r	then#r	only#r	rudely#r	again#r	literally#r
+doc105-neg-(1510).txt	smallest#a	ever#r	very#r	big#a	small#a	small#a	not#r	other#a	big#a	double#r	most#r	am#r	fairly#r	illegal#a
+doc106-neg-(1511).txt	last#a	cheap#a	convenient#a	never#r	again#r	outrageous#a	only#r	smallest#a	late#r	so#r	left#r	late#r	awful#a	very#r	unorganized#a	now#r	so#r	cheap#a
+doc107-neg-(1512).txt	first#r	hence#r	first#r	first#r	not#r	farthest#a	away#r	up#r	then#r	sour#a	well#r	even#r	long#r	uneventful#a	only#r
+doc108-neg-(1513).txt	more#r	less#a	actually#r	much#r	better#r	small#a	not#r	very#r	comfortable#a	even#r	short#r	noticeable#a	polite#a	friendly#a	so#r	there#r	long#r	typical#a	also#r	not#r	cheap#a	unfair#a	strange#a	especially#r	shorter#a	completely#r	further#r	open#a	better#r	very#r	disappointing#a
+doc109-neg-(1514).txt	even#r	longer#r	usual#a	pre#a	late#r	up#r	obvously#r	dangerious#a	forcefully#r	restless#a	abusive#a	concerned#a	there#r	distressed#a	not#r	good#a	late#r
+doc110-neg-(1515).txt	hottest#a	long#r	available#a	last#a	left#r	hot#a	general#a	best#r	tetchy#a	questionable#a	not#r	instead#r	even#r	greater#a	approximately#r	only#r	cramped#a	better#r	hot#a	ridiculously#r	definitely#r	not#r
+doc111-neg-(1516).txt	unfortunately#r	only#r	so#r	not#r	much#r	usually#r	fair#a	enough#r	wrong#a	hardly#r	young#a	just#r	once#r	even#r	complimentary#a	just#r	once#r	desperate#a	hardly#r	eatable#a	worst#a	accidentally#r	wrong#a	not#r	helpful#a	fairly#r	cheap#a	only#r	high#a
+doc112-neg-(1517).txt	stressed#a	just#r	slightly#r	better#r	almost#r	only#r	only#r	final#a	most#r	important#a	new#a	there#r
+doc113-neg-(1518).txt	due#a	30pm#a	not#r	30pm#a	really#r	rude#a	worse#a	there#r	obviously#r	there#r	then#r	approximately#r	extra#a	not#r	not#r	not#r	worst#a	ever#r
+doc114-neg-(1519).txt	latest#a	twice#r	so#r	second#a	good#a	good#a	extra#a	extra#a	first#r	also#r	right#r	right#r	so#r	very#r	not#r	anymore#r	unprofessional#a	very#r	rude#a	only#r	not#r	applicable#a	other#a
+doc115-neg-(1520).txt	sick#a	cheap#a	then#r	extra#a	most#r	there#r	not#r	friendly#a	never#r	now#r	blue#a	instead#r
+doc116-neg-(1521).txt	very#r	cheap#a	only#r	good#a	dirty#a	everywhere#r	really#r	bad#a	once#r	available#a	obscene#a	most#r	basic#a
+doc117-neg-(1522).txt	disabled#a	very#r	unhelpful#a	impossible#a	only#r	large#a	essential#a
+doc118-neg-(1523).txt	cheap#a	fair#a	back#r	forth#r	similar#a	further#r	smaller#a	most#r	ordinary#a	almost#r	much#r	almost#r	much#r	back#r	thick#a	extra#a	cheap#a	first#r	extra#a	convinced#a	never#r	again#r
+doc119-neg-(1524).txt	not#r	only#r	interested#a	extra#a	up#r	free#a	sustainable#a	dark#a	low#a
+doc120-neg-(1525).txt	very#r	dissatisfied#a	always#r	always#r	same#a	old#a	yet#r	very#r	up#r	apparently#r	too#r	big#a	major#a	minor#a	such#a	clear#a	again#r	turkish#a	british#a
+doc121-neg-(1526).txt	normally#r	up#r
+doc122-neg-(1527).txt	late#r	awful#a	even#r	sparkling#a	later#r	again#r	late#r	only#r
+doc123-neg-(1528).txt	more#r	obviously#r	old#a	unreliable#a	not#r	very#r	unsatisfactory#a
+doc124-neg-(1529).txt	last#a	few#a	worst#a	worst#a	there#r	long#r	never#r	up#r	same#a	almost#r	same#a	again#r	free#a	rather#r	more#r	more#r	proffessional#a
+doc125-neg-(1530).txt	22nd#a	due#a	swiftly#r	earlier#r	usual#a	terminal#a	good#a	anyway#r	least#a	finally#r	just#r	good#a	still#r	finally#r	due#a	back#r	now#r	technical#a	ready#a	not#r	now#r	hardly#r	vile#a	rudest#a	most#r	unprofessional#a	ever#r	complimentary#a	instead#r	same#a	once#r	too#r	bad#a	never#r	ever#r	again#r
+doc126-neg-(1531).txt	never#r	just#r	cheap#a	however#r	recent#a	worse#a	worse#a	last#a	almost#r	unbearable#a	first#r	almost#r	even#r	there#r	separate#a	rather#r	cramped#a	only#r	then#r	legendary#a	constant#a	even#r	huge#a	right#r	free#a	small#a	right#r	bigger#a	obligatory#a	significantly#r	higher#a	separate#a	cheaper#a	then#r	instead#r	just#r	separate#a	not#r	together#r	additional#a	other#a	also#r	overall#r	not#r	not#r
+doc127-neg-(1532).txt	great#a	now#r	however#r	old#a	absolutely#r	not#r	human#a	again#r	not#r	other#a	not#r	even#r
+doc128-neg-(1533).txt	even#r	worst#a	possible#a	small#a	busy#a	strange#a	other#a
+doc129-pos-(1641).txt	low#a	greatest#a	back#r	low#a	available#a	almost#r	low#a	mostly#r	new#a	newish#a	lower#a	else#r	usual#a	classic#a	uncomfortable#a	most#r	so#r	always#r	close#r	bigger#a	even#r	close#r	furthermore#r	also#r	extra#a	more#r	usual#a	finally#r	longer#r	last#a	not#r	true#a
+doc130-pos-(3175).txt	most#r	popular#a	cheap#a	not#r	very#r	very#r	good#a	good#a	particular#a	low#a
+doc131-pos-(3176).txt	short#r	right#r	cheap#a	moreover#r	perfect#a	second#a
+doc132-pos-(3177).txt	first#r	great#a	punctual#a	due#a	twice#r	inmediately#r	good#a	just#r	everyday#a	only#r
+doc133-pos-(3178).txt	very#r	cheap#a	so#r	high#a	just#r	late#r	else#r
+doc134-pos-(3179).txt	very#r	straightforward#a	comfortable#a	only#r	very#r	good#a	extra#a	good#a	certainly#r
+doc135-pos-(3180).txt	short#r	wonderful#a	full#a
+doc136-pos-(3181).txt	always#r	clean#a	really#r	low#a	able#a	different#a
+doc137-pos-(3182).txt	good#a	perfect#a	very#r	good#a	nice#a	certainly#r	again#r
+doc138-pos-(3183).txt	already#r	many#a	nice#a	there#r	rare#a	not#r	always#r	friendly#a	well#r	only#r	often#r	really#r	cheap#a	bigger#a	up#r	full#a	sometimes#r	worth#a	good#a	regular#a
+doc139-pos-(3184).txt	very#r	pleasant#a	easy#a	delightful#a	genuinely#r	very#r	helpful#a	friendly#a	larger#a	free#a
+doc140-pos-(3185).txt	strict#a	very#r	good#a	up#r	various#a	really#r	amazing#a	brilliant#a	large#a	not#r	well#r	really#r	upset#a	quite#r	there#r
+doc141-pos-(3186).txt	always#r	nice#a	helpful#a	clean#a	safe#a	most#r
+doc142-pos-(3187).txt	nice#a	good#a	helpful#a	there#r	enough#r	comfortable#a	other#a	good#a	there#r	various#a	available#a
+doc143-pos-(3188).txt	other#a	optimal#a	super#a	small#a	however#r	good#a	nice#a	big#a	normal#a	really#r	good#a
+doc144-pos-(3189).txt	aware#a	there#r	substantial#a	up#r	so#r	far#r	terminal#a	there#r	earlier#r	not#r	earlier#r	up#r
+doc145-pos-(3190).txt	pleasant#a	quiet#a	very#r	professional#a	good#a	professional#a
+doc146-pos-(3191).txt	once#r	twice#r	never#r	other#a	usually#r	back#r	there#r	here#r	there#r	few#a	too#r	large#a	polite#a	instead#r
+doc147-pos-(3192).txt	long#r	almost#r	good#a	highest#a
+doc148-pos-(3193).txt	comfortable#a	friendly#a	helpful#a	there#r	least#a	extra#a	there#r	longer#r	due#a	horrendous#a	there#r	everywhere#r	real#r	great#a	really#r	lovely#a	very#r	friendly#a	helpful#a	hospitable#a
+doc149-pos-(3194).txt	good#a	very#r	friendly#a	slightly#r	heavier#a	great#a	cheaper#a	good#a
+doc150-pos-(3195).txt	several#a	most#r	almost#r	always#r	dirty#a	otherwise#r	not#r	other#a	extra#a	not#r	discerning#a	additional#a	sometimes#r
+doc151-pos-(3196).txt	very#r	very#r	good#a	new#a	modern#a	confortable#a	more#r	real#r	up#r	good#a
+doc152-pos-(3197).txt	nice#a	short#r	very#r	comfortable#a	unfortunately#r	very#r	new#a
+doc153-pos-(3198).txt	many#a	long#r	perfect#a	good#a
+doc154-pos-(3199).txt	once#r	quickly#r	professionally#r	great#a	wonderful#a	other#a
+doc155-pos-(3200).txt	cheap#a	new#a	now#r	free#a	large#a	so#r
+doc156-pos-(3201).txt	many#a	bad#a	really#r	not#r	comfy#a	pleasant#a	now#r	pleasant#a
+doc157-pos-(3202).txt	good#a	very#r	nice#a	acceptable#a
+doc158-pos-(3203).txt	perfect#a	comfortable#a	cheap#a	good#a	more#r	economical#a	additional#a	highly#r
+doc159-pos-(3204).txt	best#r	direct#a
+doc160-pos-(3205).txt	rather#r	apprehensive#a	never#r	however#r	pleasantly#r	surprised#a	almost#r	new#a	very#r	clean#a	professional#a	courteous#a	almost#r	earlier#r
+doc161-pos-(3206).txt	smoothly#r	excellent#a	certainly#r	again#r
+doc162-pos-(3207).txt	low#a	not#r	nice#a	not#r	small#a	other#a	correct#a	same#a	not#r	efficiently#r	there#r	other#a
+doc163-pos-(3208).txt	very#r	nice#a	nice#a	clean#a	very#r	well#r	very#r	well#r	upset#a
+doc164-pos-(3209).txt	tiny#a	actually#r	very#r	well#r	up#r	so#r	ever#r	really#r	low#a	friendly#a	efficient#a
+doc165-pos-(3210).txt	
+doc166-pos-(3211).txt	nice#a	good#a	also#r
+doc167-pos-(3212).txt	first#r	very#r	efficient#a	pleasant#a	helpful#a	well#r	speedy#a
+doc168-pos-(3213).txt	not#r	really#r	apart#r	long#r	very#r	uncomfortable#a	very#r	long#r	very#r	cold#a	down#r	properly#r	basic#a	away#r	even#r	so#r	restful#a	many#a	far#r	concerned#a	higher#a	most#r	same#a
+doc169-pos-(3214).txt	low#a	sometimes#r	additional#a	good#a
+doc170-pos-(3215).txt	helpful#a	reasonable#a	extra#a	more#r	still#r	late#r
+doc171-pos-(3216).txt	mostly#r	main#a	older#a	long#r	usually#r
+doc172-pos-(3217).txt	many#a	different#a	special#a	many#a	very#r	cheap#a	italy#r	once#r	forever#r	extra#a	more#r	exotic#a	longest#a	so#r	far#r	yet#r	special#a	so#r	bigger#a	free#a	small#a	now#r	free#a	earlier#r	so#r	am#r	also#r	select#a	big#a	even#r	short#r	clean#a	not#r	much#r	comfortable#a	more#r	so#r	there#r	so#r	very#r	hard#r	even#r	very#r	expensive#a	too#r	much#r	expensive#a	other#a	only#r	once#r	globally#r	many#a	many#a	even#r	similar#a	turkish#a	not#r	practical#a	richer#a	new#a	once#r	canary#a	ahead#r	open#a	many#a	already#r	new#a	so#r	soon#r
+doc173-pos-(3218).txt	great#a	apart#r	heavy#a	fair#a	very#r	polite#a	usual#a
+doc174-pos-(3219).txt	unfortunately#r	only#r	quite#r	expensive#a	normal#a	so#r	possible#a	prior#r	good#a	much#r	faster#r	terminal#a	terminal#a	yellow#a	free#a	terminal#a	up#r	then#r	terminal#a	not#r	more#r	not#r	together#r	even#r	especially#r	late#r	early#r	only#r	less#a	other#a	early#r	late#r	not#r	otherwise#r	quite#r	often#r
+doc175-pos-(3220).txt	very#r	cheap#a	very#r	limited#a	especially#r	terminal#a	not#r	possible#a	weighted#a	non#a	really#r	expensive#a	very#r	carefully#r
+doc176-pos-(3221).txt	first#r	few#a	not#r	impressed#a	so#r	afraid#a	same#a	rude#a	arrogant#a	back#r	only#r	dumb#a	whole#a	surprised#a	not#r	just#r	good#a	understandable#a	english#a	obviously#r	necessary#a	tidy#a	am#r	surely#r	again#r
+doc177-pos-(3222).txt	overall#r	christian#a	due#a	short#r	other#a	same#a
+doc178-pos-(3223).txt	sure#r	pleasantly#r	surprised#a	good#a	effortless#a	quick#a	due#a	very#r	reasonable#a	not#r	much#r	possible#a
+doc179-pos-(3224).txt	always#r	free#a	good#a	always#r
+doc180-pos-(3225).txt	better#r	more#r	more#r
+doc181-pos-(3226).txt	very#r	impressive#a	pretty#r	little#r	short#r	wonderful#a
+doc182-pos-(3227).txt	very#r	good#a	low#a	good#a	special#a	almost#r	also#r	so#r	even#r	more#r	weak#a	not#r	smaller#a	plain#r
+doc183-pos-(3228).txt	most#r	reliable#a	however#r	not#r	small#a	nice#a	not#r	crazy#a	usually#r	attentive#a	ready#a	however#r	nice#a	more#r	often#r	interesting#a	more#r	comfortable#a	usually#r	not#r	long#r	so#r	reasonable#a
+doc184-pos-(3229).txt	very#r	reliable#a	very#r	comfortable#a	clean#a	very#r	good#a	excellent#a	easy#a	good#a
+doc185-pos-(3230).txt	well#r	personal#a	also#r	well#r
+doc186-pos-(3231).txt	very#r	confortable#a	small#a	am#r
+doc187-pos-(3232).txt	countless#a	various#a	cheap#a	yes#r	not#r	too#r	comfortable#a	always#r	really#r	friendly#a	not#r	most#r	only#r	sometimes#r	always#r	less#a	professional#a
+doc188-pos-(3233).txt	first#r	already#r	also#r	specific#a	abroad#r	cheap#a	so#r	just#r	best#r	personal#a	worth#a	otherwise#r	extra#a
+doc189-pos-(3234).txt	really#r	cheap#a	worth#a	additional#a	first#r	best#r	really#r	comfortable#a	only#r	little#r	late#r	approx#r
+doc190-pos-(3235).txt	great#a	very#r	friendly#a	earlier#r	then#r
+doc191-pos-(3236).txt	only#r	remotely#r	located#a	extra#a	norwegian#a	major#a	always#r	particular#a
+doc192-pos-(3237).txt	just#r	not#r	late#r	lovely#a	clean#a
+doc193-pos-(3238).txt	good#a	not#r	extra#a	compactly#r	usually#r	also#r
+doc194-pos-(3239).txt	so#r	many#a	utterly#r	strict#a	frequently#r	clearly#r	yet#r	overstuffed#a	too#r	large#a	several#a	extra#a	extra#a	clean#a	attentive#a	helpful#a	perfectly#r	pleasant#a	not#r	good#a	again#r	well#r	still#r
+doc195-pos-(3240).txt	not#r	much#r	new#a	okay#a	great#a	musical#a	somehow#r	extra#a	really#r	courteous#a
+doc196-pos-(3241).txt	good#a	reasonable#a	last#a	so#r	substantially#r	additional#a	convenient#a	well#r	always#r	good#a	excellent#a	friendly#a
+doc197-pos-(3242).txt	quite#r	decent#a	adequate#a	very#r	punctual#a	even#r	pretty#r	early#r	there#r	unfortunately#r	thus#r	english#a	not#r	well#r	heavily#r
+doc198-pos-(3243).txt	now#r	many#a	highly#r	clear#a	low#a	always#r	extra#a	additional#a	good#a	not#r	then#r
+doc199-pos-(3244).txt	clean#a	comfy#a	cheap#a	really#r	little#r
+doc200-pos-(3245).txt	very#r	good#a	much#r	disabled#a	left#r	quite#r	long#r	unexpectable#a	down#r	so#r	so#r	last#a	so#r	soon#r	older#a	disabled#a	electric#a	directly#r	free#a	cold#a	later#r	thus#r
+doc201-pos-(3246).txt	not#r	great#a	not#r	large#a	eventually#r	nice#a	pleasant#a	maybe#r	most#r	quite#r	comfy#a	reasonable#a	honest#a	probably#r	more#r	then#r	quite#r	recent#a	non#a	not#r	bad#a	not#r
+doc202-pos-(3247).txt	multiple#a	last#a	definitely#r	nicest#a	most#r	reliable#a	always#r	perfect#a	due#a	bad#a	professionally#r	friendly#a	speedy#a	very#r	competitive#a	eastern#a	northern#a	western#a
+doc203-pos-(3248).txt	just#r	clean#a	helful#a	up#r	good#a	low#a	again#r
+doc204-pos-(3249).txt	cheap#a	much#r	easy#a	easy#a	plenty#r	quick#a	efficient#a	friendly#a	only#r	short#r	very#r	uncomfortable#a
+doc205-pos-(3250).txt	comfortable#a	wide#a	small#a	not#r	really#r	also#r	there#r	adequate#a	quite#r	tight#r	perhaps#r	worth#a	little#r	extra#a	extra#a	not#r	more#r	informative#a	amazing#a	various#a	good#a	mid#a	pre#a	several#a	pre#a	free#a	very#r	slightly#r	several#a	pre#a	only#r
+doc206-pos-(3251).txt	nice#a	very#r	cheap#a	yes#r	well#r	low#a
+doc207-pos-(3252).txt	several#a	great#a	cheap#a	so#r	very#r	efficient#a	friendly#a
+doc208-pos-(3253).txt	several#a	often#r	late#r	generally#r	good#a	often#r	friendly#a	very#r	good#a	english#a	happy#a	overall#r	often#r	good#a	several#a	however#r	nasty#a	additional#a	other#a	such#a	costly#a	good#a	decent#a	very#r	comfortable#a	old#a	correctly#r	there#r
+doc209-pos-(3254).txt	back#r	select#a	extra#a	also#r	far#r	big#a	now#r	earlier#r	so#r	far#r	fully#r	satisfied#a
+doc210-pos-(3255).txt	incredibly#r	cheap#a	certainly#r	comfortable#a	good#a	unbelievable#a	frequent#a	also#r	then#r	able#a	not#r	so#r
+doc211-pos-(3256).txt	only#r	other#a	realy#r	professional#a	definite#a	realy#r
+doc212-pos-(3257).txt	regularly#r	free#a	always#r	minimal#a	up#r	aware#a	terminal#a	only#r	smart#a	right#r
+doc213-pos-(3258).txt	nice#a	nice#a	very#r	cheap#a	very#r	again#r	sure#r
+doc214-pos-(3259).txt	several#a	italy#r	direct#a	extra#a	low#a	really#r	good#a
+doc215-pos-(3260).txt	complete#a	additional#a	decent#a	very#r	well#r	free#a	comfortable#a	friendly#a	else#r	other#a
+doc216-pos-(3261).txt	quite#r	often#r	few#a	most#r	always#r	am#r	always#r
+doc217-pos-(3262).txt	only#r	technical#a	then#r	additional#a	apart#r	polite#a	always#r	clean#a	there#r	enough#r	safe#a	sure#r	extra#a	pretty#r	much#r	other#a	sure#r	so#r	really#r	tight#r	few#a	30eur#a	10eur#a	well#r	already#r	safe#a
+doc218-pos-(3263).txt	new#a	good#a	cheap#a	more#r	careful#a	very#r	restrictive#a	overall#r
+doc219-pos-(3264).txt	nice#a	clean#a	punctual#a	polite#a	good#a	not#r	extra#a
+doc220-pos-(3265).txt	great#a	short#r	low#a	more#r	large#a	additional#a	such#a	basically#r	aloud#r	only#r	small#a	additional#a	else#r	very#r	small#a	so#r	tall#a	extra#a	there#r	extra#a	low#a	wide#a	also#r	fairly#r	new#a	better#r	more#r	nice#a	general#a	clean#a
+doc221-pos-(3266).txt	such#a	even#r	only#r	comparatively#r	cheaper#a	other#a	then#r	special#a	such#a	first#r	instead#r	so#r	however#r	then#r	am#r	not#r	sure#r
+doc222-pos-(3267).txt	regular#a	cheap#a	extra#a	excellent#a	more#r	often#r
+doc223-pos-(3268).txt	very#r	few#a	direct#a	so#r	already#r	personally#r	much#r	far#r	superior#a	many#a	clean#a	modern#a	purple#a	quite#r	comfortable#a	actually#r	very#r	pleasant#a	better#r
+doc224-pos-(3269).txt	only#r	direct#a	so#r	once#r	usual#a	easy#a	enough#r	once#r	carefully#r	immediate#a	important#a	pre#a	so#r	there#r	unexpected#a	outgoing#a	good#a	same#a	perfectly#r	only#r	ghastly#a	chaotic#a	early#r	back#r	operational#a	already#r	huge#a	disorganised#a	forward#r	fast#r	certain#a	general#a	old#a	audible#a	back#r	hard#r	there#r	different#a	very#r	short#r	outgoing#a	down#r	not#r	incidentally#r	small#a	very#r	modern#a	clean#a	efficient#a	comfortable#a	great#a	still#r	certainly#r	again#r	possible#a
+doc225-pos-(3270).txt	low#a	exactly#r	very#r	good#a	big#a	nice#a	clean#a	nice#a	good#a	especially#r
+doc226-pos-(3271).txt	nice#a	clean#a	modern#a	more#r	less#a	chaotic#a	more#r	spacious#a	modern#a	less#a	back#r	general#a	calming#a	good#a	short#r
+doc227-pos-(3272).txt	great#a	great#a	only#r	english#a	not#r	completely#r	understandable#a	there#r	safely#r	certainly#r
+doc228-pos-(3273).txt	clean#a	helpful#a	not#r	always#r	comfortable#a	best#r	not#r	very#r	expensive#a	disabled#a	accessible#a	strict#a
+doc229-pos-(3274).txt	very#r	special#a	unfortunately#r	very#r	scarce#a	good#a
+doc230-pos-(3275).txt	reasonably#r	strict#a	just#r	very#r	simple#a	clearly#r	extra#a	there#r	always#r	last#a	oversized#a	large#a	free#a	quite#r	funny#a	not#r	quite#r	same#a	other#a	low#a
+doc231-pos-(3276).txt	only#r	far#r	so#r	little#r	hard#r	long#r	other#a	wise#a	very#r	happy#a
+doc232-pos-(3277).txt	pretty#r	much#r	plain#r	so#r	far#r	friendly#a	helpful#a	hard#r	relatively#r	short#r	well#r	fairly#r	even#r	whenpresented#a	convinced#a	cheaper#a	more#r	often#r	populated#a	much#r	so#r	somewhat#r	high#a	enormous#a	more#r	frequent#a	down#r	more#r	last#a	amazingly#r	huge#a	down#r	poor#a	hopefully#r	there#r
+doc233-pos-(3278).txt	overall#r	comfortable#a	clean#a	nice#a	more#r	quick#a
+doc234-pos-(3279).txt	best#r	available#a	overall#r	good#a	then#r	free#a	right#r	there#r	free#a	teminal#a	then#r	usually#r	cheap#a	ahead#r	not#r	then#r	back#r	then#r	6am#a	hard#r	then#r	5am#a	open#a
+doc235-pos-(3280).txt	first#r	terminal#a	just#r	straight#r	really#r	helpful#a	left#r	magically#r	shortly#r	down#r	only#r	old#a	not#r	much#r	bigger#a	own#a	2yr#a	old#a	too#r	cramped#a	especially#r	quickly#r	little#r	back#r	extra#a	easiest#a	2yr#a	not#r	comfortable#a
+doc236-pos-(3281).txt	nice#a	always#r	cheap#a	best#r	short#r
+doc237-pos-(3282).txt	there#r	nicer#a	minimal#a	basically#r	not#r	most#r	low#a	yes#r	there#r	strict#a	very#r	competitive#a	never#r	big#a	also#r	just#r	not#r	bigger#a	definitely#r	probably#r	best#r	low#a
+doc238-pos-(3283).txt	other#a	low#a	easy#a	also#r	friendly#a	whole#a	definitely#r	many#a
+doc239-pos-(3284).txt	pleasantly#r	surprised#a	good#a	mannered#a	efficiently#r	frequent#a	so#r	much#r
+doc240-pos-(3285).txt	fantastic#a	great#a	relatively#r	new#a	hungarian#a	due#a	massive#a	terminal#a
+doc241-pos-(3286).txt	extra#a	always#r	excellent#a	really#r	good#a
+doc242-pos-(3287).txt	nice#a	there#r	nice#a	too#r	hungarian#a	italian#a	there#r	other#a
+doc243-pos-(3288).txt	just#r	special#a
+doc244-pos-(3289).txt	6pm#a	mobile#a	further#r	long#r	up#r	then#r	further#r	very#r	windy#a	good#a	clean#a	there#r	good#a	excellent#a
+doc245-pos-(3290).txt	nice#a	punctual#a	nice#a	clean#a	really#r	good#a	few#a	able#a	more#r
+doc246-pos-(3291).txt	last#a	very#r	easily#r	pretty#r	cheap#a	comfortable#a	enough#r
+doc247-pos-(3292).txt	there#r	nicely#r	pleasant#a	good#a	even#r	more#r	low#a	more#r	decent#a	only#r	low#a	horrible#a	super#a	cold#a	windy#a	straight#r	deep#r	finally#r	well#r	right#r	good#a
+doc248-pos-(3293).txt	nice#a	nice#a	very#r	safe#a	low#a	short#r
+doc249-pos-(3294).txt	best#r	recently#r	minor#a	only#r	bad#a	final#a	friendly#a	helpful#a	great#a	earlier#r
+doc250-pos-(3295).txt	maybe#r	best#r	low#a	ever#r	often#r	always#r	perfect#a	not#r	perfect#a	excellent#a	very#r	good#a
+doc251-pos-(3296).txt	quite#r	almost#r
+doc252-pos-(3297).txt	yes#r	very#r	much#r	very#r	new#a	very#r	nice#a	also#r	enough#r
+doc253-pos-(3298).txt	good#a	affordable#a	clean#a	modern#a	hungarian#a	bilingual#a	little#r	tricky#a	available#a	reasonably#r	again#r
+doc254-pos-(3299).txt	approx#r	easy#a	left#r	approx#r	very#r	hot#a	available#a	sorry#a	small#a	also#r	elderly#a	not#r	suitable#a	otherwise#r	good#a	nice#a
+doc255-pos-(3300).txt	fairly#r	good#a	really#r	cheap#a	overly#r	comfy#a	2hr#a	pleasant#a	regular#a
+doc256-pos-(3301).txt	least#a	once#r	very#r	much#r	not#r	only#r	also#r	never#r	whatsoever#r	just#r	reasonable#a	sometimes#r	even#r	good#a	cheaper#a	twice#r	never#r	well#r	maybe#r	perfect#a	never#r
+doc257-pos-(3302).txt	low#a	nice#a
+doc258-pos-(3303).txt	fast#r	fast#r	dark#a	old#a	not#r	so#r	now#r	yearly#a	large#a	well#r	worth#a	frequent#a	excellent#a	better#r	normal#a	great#a
+doc259-pos-(3304).txt	low#a	certainly#r	last#a	pleasant#a	polite#a	helpful#a	several#a	not#r	heavier#a	there#r	up#r	extra#a	good#a	also#r	several#a	possible#a	extra#a	only#r	related#a	also#r	not#r	clear#a	counter#r
+doc260-pos-(3305).txt	not#r	best#r	low#a	very#r	affordable#a	small#a	very#r	good#a	free#a	significant#a	lower#a	free#a	fairly#r	decent#a	most#r	important#a
+doc261-pos-(3306).txt	cheap#a	almost#r	punctual#a	good#a	nice#a	extra#a	comfortable#a	there#r	quite#r	new#a	good#a	only#r
+doc262-pos-(3307).txt	well#r	low#a	cheap#a	good#a	new#a	really#r	nice#a	frequent#a	never#r	accurate#a	terrible#a	soon#r
+doc263-pos-(3308).txt	often#r	great#a	low#a	eastern#a	western#a	much#r	mostly#r	north#r	south#r	otherwise#r	very#r	similar#a	very#r	low#a	free#a	basically#r	only#r	tiny#a	more#r	inconvenient#a	also#r	heavy#a	just#r	few#a	last#a	otherwise#r	not#r	too#r	bad#a	once#r	due#a	down#r	nice#a	not#r	other#a	too#r	early#r	so#r	instead#r	same#a
+doc264-pos-(3309).txt	best#r	low#a	new#a	clean#a	comfortable#a	very#r	freindly#r	good#a	extra#a
+doc265-pos-(3310).txt	very#r	good#a	really#r	well#r
+doc266-pos-(3311).txt	quite#r	disappointed#a	first#r	very#r	convenient#a	close#r	again#r	impressed#a	ready#a	prior#r	polite#a	very#r	pleasant#a	back#r
+doc267-pos-(3312).txt	often#r	various#a	always#r	good#a	convenient#a	sometimes#r	there#r	convenient#a
+doc268-pos-(3313).txt	good#a	short#r	hungary#a	friendly#a	simple#a	speedy#a	even#r	clean#a	only#r	slight#a	other#a	short#r	real#r
+doc269-pos-(3314).txt	new#a	good#a	everywhere#r	only#r	really#r	major#a	busy#a	really#r	very#r	wonderful#a	clean#a
+doc270-pos-(3315).txt	sometimes#r	worth#a	clean#a	efficient#a	other#a	clean#a	comfy#a
+doc271-pos-(3316).txt	am#r	automatically#r	generally#r	possible#a	due#a	still#r	still#r	other#a	first#r	only#r	few#a	not#r	only#r	available#a	cheaper#a	so#r	there#r	usually#r	own#a	there#r	different#a	other#a	friendly#a	alert#a	respectful#a
+doc272-pos-(3317).txt	low#a	same#a	usually#r	convenient#a	good#a
+doc273-pos-(3318).txt	quick#a	really#r	free#a	very#r	convenient#a	not#r	so#r	30am#a	unearthly#a	quite#r	most#r	horrendous#a	present#a	best#r	cheerful#a	so#r
+doc274-pos-(3319).txt	easy#a	just#r	good#a	almost#r	always#r	too#r	strict#a	so#r	sure#r	good#a	professional#a
+doc275-pos-(3320).txt	generally#r	better#r	usually#r	good#a	not#r	rarely#r	last#a	sorry#a	so#r	perhaps#r	limited#a	most#r	up#r	soon#r	likely#r	more#r	then#r	not#r	increasingly#r	unattractive#a	not#r	quite#r	enough#r	complete#a
+doc276-pos-(3321).txt	almost#r	only#r	last#a	great#a	especially#r	additional#a	such#a
+doc277-pos-(3322).txt	low#a	eastern#a	central#a	rather#r	unique#a	late#r	so#r	considerably#r	higher#a	usual#a	so#r
+doc278-pos-(3323).txt	long#r	almost#r	invariably#r	punctual#a	highly#r	professional#a	new#a	spotless#a	really#r	generous#a	overall#r	only#r	good#a
+doc279-pos-(3324).txt	always#r	new#a	very#r	kindly#r	good#a	clean#a	very#r	good#a
+doc280-pos-(3325).txt	many#a	certainly#r	again#r	cheap#a	low#a	large#a	even#r	extra#a	large#a	sometimes#r	more#r	reliable#a	friendly#a	english#a	not#r	particularly#r	good#a	reasonable#a
+doc281-pos-(3326).txt	first#r	2nd#a	very#r	very#r	friendly#a	professional#a	english#a	hungarian#a	so#r	again#r
+doc282-pos-(3327).txt	more#r	possible#a	just#r	perfect#a	clean#a
+doc283-pos-(3328).txt	slight#a	just#r	almost#r	not#r	well#r	there#r	dirty#a	good#a	frequent#a	hot#a	again#r	sure#r
+doc284-pos-(3329).txt	just#r	frequently#r	always#r	extra#a	there#r	very#r	good#a	fairly#r	new#a	only#r	hardly#r	available#a	now#r	there#r	cheaper#a	not#r	best#r	otherwise#r	good#a	major#a	there#r	little#r	earlier#r
+doc285-pos-(3330).txt	good#a	ready#a	even#r	full#a	never#r	not#r	inbound#a	not#r	back#r	also#r	up#r	so#r	aware#a	ready#a	least#a	earlier#r	actually#r	am#r	other#a	indeed#r	reasonable#a	so#r	enough#r	good#a	nice#a	entire#a	low#a	good#a	left#r	exactly#r	indeed#r	very#r	sharp#a	so#r	also#r	better#r	sharp#a	also#r	really#r	so#r	bad#a	sometimes#r
+doc286-pos-(3331).txt	excellent#a	helpful#a	friendly#a	left#r	clean#a	definitely#r	again#r	free#a	tiny#a	actually#r
+doc287-pos-(3332).txt	actually#r	very#r	good#a	left#r	earlier#r	friendly#a	discreet#a	nice#a	comfortable#a	secure#a	good#a	not#r
+doc288-pos-(3333).txt	happy#a	directly#r	beautiful#a	pleasant#a	comfortable#a	such#a	good#a	such#a	short#r	good#a	also#r	other#a	sure#r	new#a
+doc289-pos-(3334).txt	many#a	especially#r	normally#r	very#r	pleasant#a	excellent#a	hungary#a	pretty#r	much#r	same#a	normal#a	such#a	easy#a	very#r	punctual#a	always#r	too#r	warm#a	picky#a	overall#r	excellent#a
+doc290-pos-(3335).txt	cheap#a	basic#a	additional#a	basic#a	comfortable#a	usual#a	not#r	longer#r	more#r
+doc291-pos-(3336).txt	very#r	good#a	very#r	pleasant#a	helpful#a	good#a	too#r	well#r
+doc292-pos-(3337).txt	surpised#a	normal#a	not#r	very#r	attentive#a	not#r	too#r	much#r
+doc293-pos-(3338).txt	good#a	terrible#a	twice#r
+doc294-pos-(3339).txt	last#a	much#r	possible#a	low#a	mostly#r	mostly#r	usually#r	resonable#a	very#r	good#a	too#r	strict#a	quite#r	litle#a	problematic#a	not#r	high#a	more#r	more#r	difficult#a	just#r	well#r	pleasant#a	good#a	very#r
+doc295-pos-(3340).txt	first#r	soon#r	second#a	ever#r	professional#a
+doc296-pos-(3341).txt	good#a	convenient#a	relatively#r	cheap#a	however#r	soon#r	up#r	fairly#r	regularly#r	worth#a	annual#a	very#r	well#r	extra#a	large#a	there#r	free#a	fair#a	good#a	scared#a
+doc297-pos-(3342).txt	often#r	always#r	maybe#r	only#r	not#r	later#r	more#r	not#r	very#r	funny#a
+doc298-pos-(3343).txt	quite#r	often#r	there#r	always#r	very#r	good#a	very#r	modern#a	only#r	there#r	strict#a	so#r	correct#a	smaller#a	other#a	so#r	aware#a	very#r	impressed#a	so#r	cheap#a
+doc299-pos-(3344).txt	recently#r	photographic#a	most#r	now#r	extra#a	easy#a	enough#r	carefully#r	there#r	wrong#a	short#r	very#r	full#a	just#r	short#r	so#r	not#r	too#r	comfortable#a	too#r	long#r	full#a	galore#r	nowadays#r	extra#a	sure#r	whole#a	cheap#a	cheerful#a	short#r	little#r	due#a	bad#a	up#r
+doc300-pos-(3345).txt	fairly#r	new#a	clean#a	frendly#r	excellent#a
+doc301-pos-(3346).txt	many#a	negative#a	familiar#a	not#r	likely#r	yes#r	yes#r	yes#r	yes#r	there#r	not#r	enough#r	tall#a	low#a	mainly#r	positive#a	clean#a	comfortable#a	polite#a	helpful#a	great#a	additional#a
+doc302-pos-(3347).txt	good#a	good#a	eastern#a	there#r	especially#r
+doc303-pos-(3348).txt	low#a	so#r	extra#a	real#r	many#a	not#r	greatest#a	so#r	longer#r	probably#r	more#r	few#a
+doc304-pos-(3349).txt	up#r	popular#a	less#a	popular#a	equally#r	worthy#a	western#a	generally#r	quite#r	once#r	so#r	far#r	so#r	good#a
+doc305-pos-(3350).txt	globally#r	low#a	special#a	good#a	good#a	eastern#a
+doc306-pos-(3351).txt	direct#a	very#r	quickly#r	friendly#a	hungarian#a	just#r	well#r	little#r	extra#a	extra#a	poor#a	so#r	comfy#a	quickly#r	purple#a
+doc307-pos-(3352).txt	very#r	cheap#a	small#a	easy#a	left#r	quite#r	comfortable#a	friendly#a	definitely#r	back#r
+doc308-pos-(3353).txt	long#r	pretty#r	clear#a	then#r	wrong#a	definitely#r	again#r	so#r	cheap#a	ahead#r
+doc309-pos-(3354).txt	not#r	sure#r	lovely#a	clean#a	new#a	helpful#a	efficient#a	definitely#r	again#r	available#a	very#r	limited#a
+doc310-pos-(3355).txt	impossible#a	also#r	big#a	bigger#a	free#a	very#r	small#a	however#r	very#r	good#a
+doc311-pos-(3356).txt	efficient#a	punctual#a	good#a	reasonable#a	also#r
+doc312-pos-(3357).txt	perfect#a	nice#a	new#a	perfect#a
+doc313-pos-(3358).txt	usually#r	quick#a	good#a	really#r	new#a	very#r	nicely#r	not#r	friendly#a
+doc314-pos-(3359).txt	indeed#r	very#r	cheap#a	big#a	different#a	overall#r	back#r	little#r	big#a	extra#a	very#r	different#a	same#a	so#r	only#r	reasonable#a	extra#a	mandatory#a
+doc315-pos-(3360).txt	great#a	exactly#r	relatively#r	new#a	not#r	little#r	early#r
+doc316-pos-(3361).txt	very#r	comfortable#a	proper#a	not#r	too#r	hot#a	not#r	too#r	cold#a	professional#a	funny#a	same#a
+doc317-pos-(3362).txt	however#r	worst#a	ever#r	hard#r	not#r	quite#r	pleasant#a	quick#a	back#r	prompt#a	nearly#r	first#r	unpleasant#a	rude#a	utter#a	general#a	always#r	first#r
+doc318-pos-(3363).txt	sometimes#r	sometimes#r	not#r	not#r	so#r	comfy#a	now#r
+doc319-pos-(3364).txt	many#a	really#r	comfortable#a	punctual#a	very#r	easy#a	due#a	good#a	highly#r
+doc320-pos-(3365).txt	short#r	usual#a	not#r	much#r	cheap#a	little#r	so#r	just#r	quiet#a	not#r	much#r	overall#r	am#r	satisfied#a	long#r	so#r	so#r	longer#r
+doc321-pos-(3366).txt	certainly#r	minimal#a	however#r	honestly#r	so#r	up#r	not#r	clean#a	almost#r	also#r	somewhat#r	however#r	good#a
+doc322-pos-(3367).txt	many#a	quite#r	comfortable#a	usually#r	rare#a	clear#a	comfortable#a	low#a	low#a	affordable#a	overall#r	quite#r	pleasureable#a	nice#a	short#r
+doc323-pos-(3368).txt	low#a	so#r	extra#a	sure#r	too#r	large#a	extra#a	also#r	sure#r	otherwise#r	long#r	nice#a	new#a
+doc324-pos-(3369).txt	low#a	much#r	surprisingly#r	more#r	other#a	low#a	only#r	only#r	slight#a	good#a	especially#r	eastern#a	not#r	different#a	personal#a	low#a	not#r	personal#a	there#r	personal#a	only#r
+doc325-pos-(3370).txt	very#r	not#r	enough#r	am#r	pretty#r	small#a	short#r	just#r	great#a	many#a	even#r	nice#a	very#r	well#r
+doc326-pos-(3371).txt	first#r	first#r	fantastic#a	small#a	only#r	plenty#r	only#r	terminal#a	little#r	easier#a	plenty#r	great#a
+doc327-pos-(3372).txt	very#r	limited#a	attentive#a	friendly#a	inexpensive#a	however#r	very#r	limited#a	normal#a	long#r	almost#r
+doc328-pos-(3373).txt	first#r	cheapest#a	far#r	normal#a	quickly#r	very#r	strict#a	away#r	back#r	normal#a	clean#a	tidy#a	really#r	good#a	left#r	very#r	impressed#a	definately#r	again#r	am#r
+doc329-pos-(3374).txt	good#a	low#a	great#a	low#a	many#a
+doc330-pos-(3375).txt	surprisingly#r	cozy#a	able#a	good#a	now#r	am#r	big#a	quite#r	surprised#a	enough#r	so#r
+doc331-pos-(3376).txt	not#r	best#r	small#a	not#r	big#a	usually#r	so#r	cheap#a
+doc332-pos-(3377).txt	narrow#a	not#r	possible#a	full#a	overcrowded#a	low#a
+doc333-pos-(3378).txt	quite#r	low#a	mostly#r	other#a	first#r	good#a	overall#r	nice#a	more#r	modern#a	still#r	low#a	obviously#r
+doc334-pos-(3379).txt	decent#a	friendly#a	nice#a	there#r	low#a	usually#r	other#a	extra#a	not#r	so#r	great#a	good#a	short#r	minimal#a
+doc335-pos-(3380).txt	very#r	good#a	low#a	approx#r	good#a	nice#a	friendly#a
+doc336-pos-(3381).txt	not#r	low#a	usually#r	horrible#a	pleasant#a	very#r	polite#a	helpful#a	free#a	nice#a	back#r	uneventful#a	just#r
+doc337-pos-(3382).txt	safe#a	quite#r	clean#a	relatively#r	confortable#a	not#r	better#r	regular#a	extra#a	good#a	not#r	very#r	expensive#a	too#r	long#r	also#r	many#a
+doc338-pos-(3383).txt	simple#a	many#a	ridiculously#r	cheap#a	adequate#a	great#a
+doc339-pos-(3384).txt	good#a	reasonable#a
+doc340-pos-(3385).txt	clean#a	enough#r	very#r	nice#a	late#r	good#a
+doc341-pos-(3386).txt	present#a	there#r	absolutely#r	so#r	extra#a	alone#r	english#a	there#r	big#a
+doc342-pos-(3387).txt	good#a	very#r	well#r	often#r	not#r	currently#r	high#a	low#a
+doc343-pos-(3388).txt	good#a	low#a	eastern#a	other#a	very#r	strict#a	so#r	large#a	generally#r	whole#a	much#r	better#r
+doc344-pos-(3389).txt	last#a	competitive#a	great#a	high#a	enough#r	comfortably#r	even#r	there#r	great#a	once#r	sick#a	full#a	always#r	nice#a
+doc345-pos-(3390).txt	first#r	excellent#a	unbelievably#r	low#a	still#r	close#r	real#r	so#r	small#a	nice#a	there#r	central#a	comparably#r	cheap#a
+doc346-pos-(3391).txt	there#r	quite#r	long#r	terminal#a	inbound#a	comfortable#a	overall#r	low#a	very#r	good#a
+doc347-pos-(3392).txt	good#a	low#a	unfortunately#r	not#r	anymore#r	just#r	too#r	expensive#a	ordinary#a	now#r
+doc348-pos-(3393).txt	just#r	plain#r	always#r	bad#a	most#r	back#r	early#r
+doc349-pos-(3394).txt	really#r	pleasant#a	polite#a	helpful#a	friendly#a	low#a	there#r	not#r
+doc350-pos-(3395).txt	well#r	most#r	am#r	mostly#r	good#a	good#a
+doc351-pos-(3396).txt	great#a	very#r	good#a	so#r	more#r
+doc352-pos-(3397).txt	again#r	dental#a	good#a	amazing#a	best#r	low#a	experienced#a	even#r	sure#r	free#a	sure#r	extra#a	small#a	generally#r	brilliant#a	short#r	worth#a	apart#r	excellent#a
+doc353-pos-(3398).txt	once#r	purple#a	great#a	comparable#a	other#a	adequate#a	not#r	exciting#a	mainly#r	eastern#a	always#r	amusing#a	successful#a
+doc354-pos-(3399).txt	very#r	low#a	only#r	quite#r	far#r	cumbersome#a
+doc355-pos-(3400).txt	regular#a	probably#r	better#r	low#a	true#a	very#r	much#r	low#a	always#r	little#r	further#r	comfortable#a	possible#a
+doc356-pos-(3401).txt	always#r	very#r	good#a	great#a	great#a
+doc357-pos-(3402).txt	second#a	great#a	acceptable#a	direct#a
+doc358-pos-(3403).txt	great#a	great#a	decent#a	low#a	equal#a	easy#a	simple#a	great#a	helpful#a	speedy#a	loving#a
+doc359-pos-(3404).txt	simple#a	instead#r	again#r	11th#a	beloved#a	closer#r	still#r	sunny#a	hilly#r	nice#a	so#r	first#r	frequent#a	there#r	not#r	really#r	there#r	so#r	several#a	well#r	however#r	clear#a	not#r	more#r	easy#a	other#a	special#a	maybe#r	agressive#a	non#a	very#r	positive#a	same#a	randomly#r	not#r	probably#r	high#a	back#r	well#r	small#a	properly#r	back#r	well#r	proper#a	other#a	regular#a	still#r	up#r	longer#r	extra#a	not#r	not#r	disturbing#a	not#r	too#r	far#r	hungary#a	back#r	easily#r	really#r	not#r	low#a	tolerable#a	only#r	instead#r	good#a
+doc360-pos-(3405).txt	nice#a	low#a	typical#a	extra#a	big#a	also#r
+doc361-pos-(3406).txt	slight#a	left#r	otherwise#r	perfect#a	same#a	well#r
+doc362-pos-(3407).txt	great#a	good#a	friendly#a	cheap#a	extra#a	free#a	definitely#r	again#r	smoothly#r
+doc363-pos-(3408).txt	quite#r	new#a	very#r	not#r	expensive#a	also#r	very#r	good#a
+doc364-pos-(3409).txt	safe#a	very#r	helpful#a	polite#a	beautiful#a
+doc365-pos-(3410).txt	very#r	satisfied#a	easy#a	safe#a	same#a	other#a	bigger#a	much#r	cheaper#a
+doc366-pos-(3411).txt	quite#r	worse#a	then#r	regular#a	again#r
+doc367-pos-(3412).txt	best#r	low#a	very#r	clean#a	great#a	good#a	wide#a	ample#a	easy#a	up#r	down#r	extra#a	great#a
+doc368-pos-(3413).txt	low#a	not#r	much#r	short#r	not#r	really#r	worst#a	especially#r	due#a	not#r	here#r	strict#a	there#r	always#r	so#r	early#r	much#r	still#r	cheap#a	even#r	personally#r	small#a	especially#r	nowadays#r
+doc369-pos-(3414).txt	good#a	higher#a	low#a	unfortunately#r	appalling#a	definitely#r	greatly#r	concerned#a
+doc370-pos-(3415).txt	almost#r	least#a	best#r	good#a	good#a	good#a	however#r	such#a	exthohrbitant#a	more#r	little#r	up#r	pre#a	other#a
+doc371-pos-(3416).txt	few#a	correct#a	only#r	open#a	nice#a	good#a
+doc372-pos-(3417).txt	efficient#a	low#a	good#a	eastern#a	more#r	less#a	convenient#a	big#a	extra#a	pre#a	more#r	necessary#a	fairly#r	expensive#a	other#a	little#r	chaotic#a	too#r	unbearable#a	free#a
+doc373-pos-(3418).txt	extra#a	worth#a	extra#a	so#r	definitely#r	again#r
+doc374-pos-(3419).txt	frequent#a	cheapest#a	far#r	aside#r	efficient#a	always#r	prompt#a	clean#a	comfortable#a	courteous#a	now#r	more#r	soon#r	especially#r	good#a	sometimes#r	little#r	especially#r	cold#a	final#a	small#a	regularly#r	free#a	best#r	long#r	select#a	later#r	other#a	so#r	more#r
+doc375-pos-(3420).txt	low#a	competitive#a	particularly#r	different#a	comfortable#a	left#r	more#r	less#a	same#a	surprisingly#r	comfortable#a	tiny#a	wider#a	many#a	other#a	free#a	courteous#a	only#r	again#r
+doc376-pos-(3421).txt	reliable#a	garish#a	delightful#a	uneventful#a	very#r	good#a	especially#r	middle#a	east#a	eastern#a	well#r	plenty#r	wonderful#a	glad#a	few#a	wakeful#a	overnight#r
+doc377-pos-(3422).txt	very#r	cheap#a	small#a	extra#a	much#r	more#r	confortable#a	national#a
+doc378-pos-(3423).txt	correct#a	nice#a	careful#a
+doc379-pos-(3424).txt	ususal#a	low#a	large#a
+doc380-pos-(3425).txt	well#r	great#a	so#r	pretty#r	high#a	even#r	low#a	especially#r	direct#a	also#r	higher#a	so#r	cheaper#a	other#a	easy#a	accesible#a	direct#a	very#r	good#a	only#r	namely#r	also#r	only#r	weekly#r	italy#r	also#r	local#a	small#a	completely#r	very#r	good#a	most#r	important#a	totally#r	completely#r	new#a	really#r	best#r	properly#r	international#a	only#r	recently#r	exageratedly#r	strict#a	especially#r	personal#a	outstandingly#r	strict#a	very#r	attentive#a	smallest#a	personal#a	then#r	hastily#r	so#r	smaller#a	full#a	so#r	big#a	there#r	also#r	there#r	always#r	other#a	whole#a	good#a	stable#a	smoothly#r	same#a	good#a	however#r	little#r	strange#a	there#r	few#a	almost#r	completely#r	dark#a	middle#a	nowhere#r	complete#a	good#a	nicely#r
+doc381-pos-(3426).txt	well#r	least#a	honest#a	low#a	frightened#a	not#r	terrible#a	late#r	so#r
+doc382-pos-(3427).txt	worth#a	just#r	too#r	bad#a	so#r	late#r
+doc383-pos-(3428).txt	usually#r	very#r	good#a	almost#r	never#r	always#r	friendly#a	whole#a	very#r	easy#a
+doc384-pos-(3429).txt	now#r	generally#r	decent#a	important#a	sure#r	right#r	small#a	mistakenly#r	whopping#a	right#r	not#r	clearly#r	right#r	here#r	early#r	much#r	cheaper#a	worth#a	extra#a	extra#a	good#a	only#r	more#r	extra#a	well#r	worth#a	good#a	right#r
+doc385-pos-(3430).txt	very#r	good#a	early#r	crisp#a	left#r	uneventful#a	good#a
+doc386-pos-(3431).txt	first#r	impressed#a	quite#r	tall#a	enough#r	less#a	good#a	good#a
+doc387-pos-(3432).txt	not#r	possible#a	quite#r	new#a	long#r	short#r	okay#a	well#r	worth#a	extremely#r	cheap#a
+doc388-pos-(3433).txt	gratefully#r	other#a	there#r	large#a	different#a	same#a	same#a
+doc389-pos-(3434).txt	nice#a	extra#a	worth#a	certainly#r	better#r	sleazy#a	sorry#a
+doc390-pos-(3435).txt	excelent#a	direct#a	not#r	great#a	there#r	only#r	very#r	basic#a	very#r	stern#a	there#r	welcome#a	good#a	only#r	again#r	direct#a
+doc391-pos-(3436).txt	interesting#a	not#r	always#r	still#r	quite#r	regular#a	quite#r	pretty#r	heavy#a	big#a	safely#r	big#a
+doc392-pos-(3437).txt	very#r	helpful#a	very#r	good#a	reasonably#r	spacious#a
+doc393-pos-(3438).txt	very#r	good#a	reasonable#a	never#r	intuitive#a	not#r	fast#r	good#a	even#r
+doc394-pos-(3439).txt	even#r	worth#a	right#r	cheap#a	normal#a	free#a	more#r	just#r	else#r	simple#a	fabulous#a	right#r	then#r
+doc395-pos-(3440).txt	several#a	excellent#a	1st#a	friendly#a	punctual#a	comfy#a	straightforward#a
+doc396-pos-(3441).txt	new#a	correct#a	additional#a	safe#a	never#r	unsafe#a	not#r
+doc397-pos-(3442).txt	friendly#a	expensive#a	there#r	honest#a	there#r	so#r
+doc398-pos-(3443).txt	okay#a	rather#r	cheap#a	so#r	high#a	excellent#a	enough#r	back#r	not#r	uncomfortable#a	properly#r	even#r	open#a	ahead#r	rather#r	disappointing#a
+doc399-pos-(3444).txt	just#r	good#a	good#a	so#r	little#r	iffy#a	even#r
+doc400-pos-(3445).txt	funny#a	stinky#a	not#r	late#r	late#r
+doc401-pos-(3446).txt	excellent#a	friendly#a	excellent#a
+doc402-pos-(3447).txt	easy#a	still#r	not#r	remote#a	comfortable#a	really#r	friendly#a	very#r	funny#a	soft#a	too#r	clean#a	good#a
+doc403-pos-(3448).txt	always#r	quite#r	pleasant#a	am#r	quite#r	accustomed#a	now#r	so#r	far#r	not#r	down#r	extra#a	so#r	here#r	also#r	first#r	first#r	often#r	worth#a	optional#a
+doc404-pos-(3449).txt	significantly#r	few#a	currently#r	significant#a	few#a	longer#r	still#r	great#a	due#a	easy#a	less#a	well#r	various#a	even#r	particularly#r	convenient#a	experienced#a	very#r	few#a	few#a	due#a	other#a	major#a	still#r
+doc405-pos-(3450).txt	new#a	young#a	polite#a	much#r	better#r	other#a	also#r	extensive#a	very#r	important#a	currently#r	best#r	reasonable#a
+point-pos	ample#a	new#a	positive#a	large#a	restful#a	highly#r	simply#r	good#a	big#a	certainly#r	remote#a	pleasant#a	weary#a	happy#a	slightly#r	grand#a	popular#a	due#a	mandatory#a	reasonable#a	ridiculously#r	complete#a	polite#a	completely#r	usual#a	super#a	nicely#r	distinct#a	ahead#r	hot#a	already#r	reliable#a	whole#a	particularly#r	unique#a	remotely#r	often#r	courteous#a	kindly#r	considerate#a	expensive#a	operational#a	particular#a	honest#a	aggressive#a	optimal#a	fully#r	absolutely#r	clearly#r	properly#r	cheerful#a	best#r	equal#a	acceptable#a	sunny#a	easily#r	greater#a	similar#a	aware#a	personal#a	attentive#a	high#a	honestly#r	nearly#r	wonderful#a	convenient#a	clear#a	definitely#r	up#r	actually#r	true#a	secure#a	otherwise#r	essential#a	enough#r	exciting#a	smart#a	modern#a	rudely#r	musical#a	direct#a	necessary#a	comparable#a	competitive#a	comfortable#a	white#a	exact#a	technical#a	utter#a	responsible#a	constant#a	close#r	approximately#r	different#a	nowadays#r	substantially#r	great#a	nice#a	disrespectful#a	tight#r	worthy#a	just#r	better#r	careful#a	proper#a	mobile#a	available#a	superior#a	well#r	safe#a	extremely#r	hopefully#r	exactly#r	elderly#a	higher#a	hence#r	forward#r	safely#r	accurate#a	worth#a	very#r	wise#a	fair#a	delightful#a	medical#a	plenty#r	really#r	entire#a	basic#a	sure#r	obviously#r	correct#a	frequent#a	perfect#a	plain#r	basically#r	professional#a	older#a	warm#a	major#a	fitting#a	early#r	welcome#a	helpful#a	amazing#a	typical#a	latest#a	complimentary#a	empty#a	select#a	straight#r	clean#a	brilliant#a	easy#a	apparently#r	okay#a	far#r	bigger#a	suitable#a	understandable#a	arrogant#a	hefty#a	full#a	friendly#a	pleasantly#r	totally#r	ready#a	important#a	possible#a	larger#a	lucky#a	special#a	interested#a	amazingly#r	purple#a	immensely#r	regularly#r	significantly#r	surprisingly#r	everywhere#r
+point-neg	other#a	miserable#a	strange#a	funny#a	late#r	unhelpful#a	severe#a	inexpensive#a	inefficient#a	afraid#a	bare#a	unsatisfactory#a	constantly#r	several#a	outrageous#a	bumpy#a	rather#r	mixed#a	down#r	unfriendly#a	various#a	generous#a	crappy#a	slow#a	uninterested#a	pathetic#a	same#a	awful#a	overly#r	now#r	scared#a	appalling#a	inadequate#a	annoyed#a	pretty#r	away#r	unsafe#a	apart#r	minor#a	dirty#a	last#a	useless#a	sick#a	sad#a	equally#r	not#r	unbelievable#a	rude#a	normal#a	free#a	dissatisfied#a	impossible#a	hardly#r	rotten#a	extra#a	general#a	terribly#r	dark#a	unable#a	yellow#a	worst#a	stingy#a	nowhere#r	fairly#r	soft#a	incredibly#r	negative#a	heavy#a	single#a	separate#a	low#a	rare#a	smaller#a	wrong#a	weak#a	worse#a	lousy#a	sorry#a	corporate#a	quiet#a	always#r	bad#a	only#r	unexpected#a	directly#r	horrendous#a	still#r	regardless#r	comfy#a	sufficient#a	small#a	barely#r	blue#a	short#r	simple#a	somehow#r	inconvenient#a	black#a	poor#a	somewhat#r	yet#r	disappointed#a	rarely#r	unacceptable#a	scary#a	tall#a	unpleasant#a	sadly#r	unreliable#a	regular#a	disappointing#a	cheap#a	dreadful#a	present#a	unfortunately#r	original#a	disabled#a	nevertheless#r	international#a	unbelievably#r	horrible#a	soon#r	open#a	final#a	unprofessional#a	unorganized#a	limited#a	disturbing#a	cold#a	desperate#a	problematic#a	previous#a	never#r	crazy#a	little#r	comfortably#r	carefully#r	packed#a	common#a	hard#r	foul#a	hungry#a	terminal#a	less#a	difficult#a	commercial#a	terrible#a	surprised#a	such#a	nasty#a	unattended#a
